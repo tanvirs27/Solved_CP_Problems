@@ -1,0 +1,70 @@
+#include<stdio.h>
+
+long long int ara[10005];
+
+void sort(long long int low,long long int high)
+{
+    long long int mid,ans,q,i;
+    ans=high+1;
+    q=ara[ans];
+
+
+    for(i=1;i<=high;i++)
+    {
+        if(ara[i]>q)
+            break;
+    }
+    mid=i;
+
+    for(i=high;i>=mid;i--)
+    {
+        ara[i+1]=ara[i];
+    }
+    ara[mid]=q;
+}
+
+long long int median(long long int n)
+{
+    if(n!=1)
+    {
+        if(n==2)
+        {
+            if(ara[1]>ara[2])
+            {
+                long long int temp=ara[1];
+                ara[1]=ara[2];
+                ara[2]=temp;
+            }
+        }
+        else
+        {
+            sort(1,n-1);
+        }
+    }
+
+    if(n&1)
+        return ara[(n+1)/2];
+
+    return (ara[n/2]+ara[n/2+1])/2;
+}
+
+int main()
+{
+    long long int n,i,j=0,k,ans;
+    i=1;
+
+    while(scanf("%lld",&n)==1)
+    {
+        ara[i]=n;
+
+        ans=median(i);
+
+        printf("%lld\n",ans);
+
+        i++;
+    }
+
+    return 0;
+}
+
+

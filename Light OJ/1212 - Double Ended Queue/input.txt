@@ -1,0 +1,20 @@
+3
+3 8
+pushLeft 1
+pushLeft 2
+pushRight -1
+pushRight 1
+popLeft
+popRight
+popLeft
+popRight
+4 4
+pushLeft -100
+popRight
+popLeft
+pushRight -100
+4 4
+popLeft
+popRight
+popLeft
+popRight

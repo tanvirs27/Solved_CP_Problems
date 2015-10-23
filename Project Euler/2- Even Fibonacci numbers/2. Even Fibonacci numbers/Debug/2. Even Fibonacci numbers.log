@@ -1,0 +1,28 @@
+﻿Build started 01-May-14 12:20:47 AM.
+     1>Project "G:\Computer Programming\Projects\Project Euler\2. Even Fibonacci numbers\2. Even Fibonacci numbers\2. Even Fibonacci numbers.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\2. Even Fibonacci numbers.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Even Fibonacci numbers.cpp"
+         Even Fibonacci numbers.cpp
+     1>g:\computer programming\projects\project euler\2. even fibonacci numbers\2. even fibonacci numbers\even fibonacci numbers.cpp(5): warning C4101: 'i' : unreferenced local variable
+     1>g:\computer programming\projects\project euler\2. even fibonacci numbers\2. even fibonacci numbers\even fibonacci numbers.cpp(5): warning C4101: 'j' : unreferenced local variable
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Computer Programming\Projects\Project Euler\2. Even Fibonacci numbers\Debug\2. Even Fibonacci numbers.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2. Even Fibonacci numbers.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Computer Programming\Projects\Project Euler\2. Even Fibonacci numbers\Debug\2. Even Fibonacci numbers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Computer Programming\Projects\Project Euler\2. Even Fibonacci numbers\Debug\2. Even Fibonacci numbers.lib" /MACHINE:X86 "Debug\2. Even Fibonacci numbers.exe.embed.manifest.res"
+         "Debug\Even Fibonacci numbers.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\2. Even Fibonacci numbers.exe.embed.manifest" /manifest "Debug\2. Even Fibonacci numbers.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         2. Even Fibonacci numbers.vcxproj -> G:\Computer Programming\Projects\Project Euler\2. Even Fibonacci numbers\Debug\2. Even Fibonacci numbers.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\2. Even Fibonacci numbers.unsuccessfulbuild".
+         Touching "Debug\2. Even Fibonacci numbers.lastbuildstate".
+     1>Done Building Project "G:\Computer Programming\Projects\Project Euler\2. Even Fibonacci numbers\2. Even Fibonacci numbers\2. Even Fibonacci numbers.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31

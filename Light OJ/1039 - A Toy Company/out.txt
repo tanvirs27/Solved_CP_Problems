@@ -1,0 +1,6905 @@
+bab 2 1
+yes
+zab 3 1
+abb 4 1
+yes
+azb 5 1
+aac 6 1
+cab 7 2
+bbb 8 2
+yes
+bzb 9 2
+bac 10 2
+baa 11 2
+yes
+yab 12 2
+zbb 13 2
+yes
+zzb 14 2
+zac 15 2
+yes
+acb 16 2
+abc 17 2
+aba 18 2
+yes
+yes
+ayb 19 2
+azc 20 2
+yes
+yes
+aad 21 2
+dab 22 3
+cbb 23 3
+yes
+czb 24 3
+cac 25 3
+caa 26 3
+bcb 27 3
+bbc 28 3
+bba 29 3
+yes
+byb 30 3
+bzc 31 3
+bza 32 3
+yes
+bad 33 3
+yes
+yes
+baz 34 3
+xab 35 3
+ybb 36 3
+yes
+yzb 37 3
+yac 38 3
+yaa 39 3
+yes
+zcb 40 3
+zbc 41 3
+zba 42 3
+yes
+yes
+zyb 43 3
+zzc 44 3
+yes
+yes
+zad 45 3
+yes
+adb 46 3
+acc 47 3
+aca 48 3
+yes
+abd 49 3
+yes
+yes
+abz 50 3
+yes
+axb 51 3
+ayc 52 3
+aya 53 3
+yes
+yes
+azd 54 3
+yes
+yes
+aae 55 3
+eab 56 4
+dbb 57 4
+yes
+dzb 58 4
+dac 59 4
+daa 60 4
+ccb 61 4
+cbc 62 4
+cba 63 4
+yes
+cyb 64 4
+czc 65 4
+cza 66 4
+yes
+cad 67 4
+yes
+yes
+caz 68 4
+bdb 69 4
+bcc 70 4
+bca 71 4
+bbd 72 4
+yes
+bbz 73 4
+bxb 74 4
+byc 75 4
+bya 76 4
+yes
+bzd 77 4
+yes
+yes
+bzz 78 4
+yes
+bae 79 4
+yes
+yes
+bay 80 4
+wab 81 4
+xbb 82 4
+yes
+xzb 83 4
+xac 84 4
+xaa 85 4
+ycb 86 4
+ybc 87 4
+yba 88 4
+yes
+yyb 89 4
+yzc 90 4
+yza 91 4
+yes
+yad 92 4
+yes
+yes
+yaz 93 4
+yes
+zdb 94 4
+zcc 95 4
+zca 96 4
+yes
+zbd 97 4
+yes
+yes
+zbz 98 4
+yes
+zxb 99 4
+zyc 100 4
+zya 101 4
+yes
+yes
+zzd 102 4
+yes
+yes
+zae 103 4
+yes
+aeb 104 4
+adc 105 4
+ada 106 4
+yes
+acd 107 4
+yes
+yes
+acz 108 4
+yes
+abe 109 4
+yes
+yes
+aby 110 4
+yes
+awb 111 4
+axc 112 4
+axa 113 4
+yes
+ayd 114 4
+yes
+yes
+ayz 115 4
+yes
+yes
+aze 116 4
+yes
+yes
+aaf 117 4
+fab 118 5
+ebb 119 5
+yes
+ezb 120 5
+eac 121 5
+eaa 122 5
+dcb 123 5
+dbc 124 5
+dba 125 5
+yes
+dyb 126 5
+dzc 127 5
+dza 128 5
+yes
+dad 129 5
+yes
+yes
+daz 130 5
+cdb 131 5
+ccc 132 5
+cca 133 5
+cbd 134 5
+yes
+cbz 135 5
+cxb 136 5
+cyc 137 5
+cya 138 5
+yes
+czd 139 5
+yes
+yes
+czz 140 5
+yes
+cae 141 5
+yes
+yes
+cay 142 5
+beb 143 5
+bdc 144 5
+bda 145 5
+bcd 146 5
+yes
+bcz 147 5
+bbe 148 5
+yes
+bby 149 5
+bwb 150 5
+bxc 151 5
+bxa 152 5
+byd 153 5
+yes
+byz 154 5
+yes
+bze 155 5
+yes
+yes
+bzy 156 5
+yes
+baf 157 5
+aay 158 5
+yes
+bax 159 5
+vab 160 5
+wbb 161 5
+yes
+wzb 162 5
+wac 163 5
+waa 164 5
+xcb 165 5
+xbc 166 5
+xba 167 5
+yes
+xyb 168 5
+xzc 169 5
+xza 170 5
+yes
+xad 171 5
+yes
+yes
+xaz 172 5
+ydb 173 5
+ycc 174 5
+yca 175 5
+ybd 176 5
+yes
+ybz 177 5
+yxb 178 5
+yyc 179 5
+yya 180 5
+yes
+yzd 181 5
+yes
+yes
+yzz 182 5
+yes
+yae 183 5
+yes
+yes
+yay 184 5
+yes
+zeb 185 5
+zdc 186 5
+zda 187 5
+yes
+zcd 188 5
+yes
+yes
+zcz 189 5
+yes
+zbe 190 5
+yes
+yes
+zby 191 5
+yes
+zwb 192 5
+zxc 193 5
+zxa 194 5
+yes
+zyd 195 5
+yes
+yes
+zyz 196 5
+yes
+yes
+zze 197 5
+yes
+yes
+zaf 198 5
+yes
+afb 199 5
+aec 200 5
+aea 201 5
+yes
+add 202 5
+yes
+yes
+adz 203 5
+yes
+ace 204 5
+yes
+yes
+acy 205 5
+yes
+abf 206 5
+yes
+abx 207 5
+yes
+avb 208 5
+awc 209 5
+awa 210 5
+yes
+axd 211 5
+yes
+yes
+axz 212 5
+yes
+aye 213 5
+yes
+yes
+ayy 214 5
+yes
+yes
+azf 215 5
+yes
+yes
+aag 216 5
+gab 217 6
+fbb 218 6
+yes
+fzb 219 6
+fac 220 6
+faa 221 6
+ecb 222 6
+ebc 223 6
+eba 224 6
+yes
+eyb 225 6
+ezc 226 6
+eza 227 6
+yes
+ead 228 6
+yes
+yes
+eaz 229 6
+ddb 230 6
+dcc 231 6
+dca 232 6
+dbd 233 6
+yes
+dbz 234 6
+dxb 235 6
+dyc 236 6
+dya 237 6
+yes
+dzd 238 6
+yes
+yes
+dzz 239 6
+yes
+dae 240 6
+yes
+yes
+day 241 6
+ceb 242 6
+cdc 243 6
+cda 244 6
+ccd 245 6
+yes
+ccz 246 6
+cbe 247 6
+yes
+cby 248 6
+cwb 249 6
+cxc 250 6
+cxa 251 6
+cyd 252 6
+yes
+cyz 253 6
+yes
+cze 254 6
+yes
+yes
+czy 255 6
+yes
+caf 256 6
+yes
+cax 257 6
+bfb 258 6
+bec 259 6
+bea 260 6
+bdd 261 6
+yes
+bdz 262 6
+bce 263 6
+yes
+bcy 264 6
+bbf 265 6
+bbx 266 6
+bvb 267 6
+bwc 268 6
+bwa 269 6
+bxd 270 6
+yes
+bxz 271 6
+bye 272 6
+yes
+byy 273 6
+yes
+bzf 274 6
+azy 275 6
+yes
+bzx 276 6
+yes
+bag 277 6
+yes
+zay 278 6
+yes
+aax 279 6
+yes
+baw 280 6
+uab 281 6
+vbb 282 6
+yes
+vzb 283 6
+vac 284 6
+vaa 285 6
+wcb 286 6
+wbc 287 6
+wba 288 6
+yes
+wyb 289 6
+wzc 290 6
+wza 291 6
+yes
+wad 292 6
+yes
+yes
+waz 293 6
+xdb 294 6
+xcc 295 6
+xca 296 6
+xbd 297 6
+yes
+xbz 298 6
+xxb 299 6
+xyc 300 6
+xya 301 6
+yes
+xzd 302 6
+yes
+yes
+xzz 303 6
+yes
+xae 304 6
+yes
+yes
+xay 305 6
+yeb 306 6
+ydc 307 6
+yda 308 6
+ycd 309 6
+yes
+ycz 310 6
+ybe 311 6
+yes
+yby 312 6
+ywb 313 6
+yxc 314 6
+yxa 315 6
+yyd 316 6
+yes
+yyz 317 6
+yes
+yze 318 6
+yes
+yes
+yzy 319 6
+yes
+yaf 320 6
+yes
+yax 321 6
+yes
+zfb 322 6
+zec 323 6
+zea 324 6
+yes
+zdd 325 6
+yes
+yes
+zdz 326 6
+yes
+zce 327 6
+yes
+yes
+zcy 328 6
+yes
+zbf 329 6
+yes
+zbx 330 6
+yes
+zvb 331 6
+zwc 332 6
+zwa 333 6
+yes
+zxd 334 6
+yes
+yes
+zxz 335 6
+yes
+zye 336 6
+yes
+yes
+zyy 337 6
+yes
+yes
+zzf 338 6
+yes
+yes
+zag 339 6
+yes
+agb 340 6
+afc 341 6
+afa 342 6
+yes
+aed 343 6
+yes
+yes
+aez 344 6
+yes
+ade 345 6
+yes
+yes
+ady 346 6
+yes
+acf 347 6
+yes
+acx 348 6
+yes
+abg 349 6
+yes
+abw 350 6
+yes
+aub 351 6
+avc 352 6
+ava 353 6
+yes
+awd 354 6
+yes
+yes
+awz 355 6
+yes
+axe 356 6
+yes
+yes
+axy 357 6
+yes
+ayf 358 6
+yes
+ayx 359 6
+yes
+yes
+azg 360 6
+yes
+yes
+aah 361 6
+hab 362 7
+gbb 363 7
+yes
+gzb 364 7
+gac 365 7
+gaa 366 7
+fcb 367 7
+fbc 368 7
+fba 369 7
+yes
+fyb 370 7
+fzc 371 7
+fza 372 7
+yes
+fad 373 7
+yes
+yes
+faz 374 7
+edb 375 7
+ecc 376 7
+eca 377 7
+ebd 378 7
+yes
+ebz 379 7
+exb 380 7
+eyc 381 7
+eya 382 7
+yes
+ezd 383 7
+yes
+yes
+ezz 384 7
+yes
+eae 385 7
+yes
+yes
+eay 386 7
+deb 387 7
+ddc 388 7
+dda 389 7
+dcd 390 7
+yes
+dcz 391 7
+dbe 392 7
+yes
+dby 393 7
+dwb 394 7
+dxc 395 7
+dxa 396 7
+dyd 397 7
+yes
+dyz 398 7
+yes
+dze 399 7
+yes
+yes
+dzy 400 7
+yes
+daf 401 7
+yes
+dax 402 7
+cfb 403 7
+cec 404 7
+cea 405 7
+cdd 406 7
+yes
+cdz 407 7
+cce 408 7
+yes
+ccy 409 7
+cbf 410 7
+cbx 411 7
+cvb 412 7
+cwc 413 7
+cwa 414 7
+cxd 415 7
+yes
+cxz 416 7
+cye 417 7
+yes
+cyy 418 7
+yes
+czf 419 7
+yes
+czx 420 7
+yes
+cag 421 7
+yes
+caw 422 7
+bgb 423 7
+bfc 424 7
+bfa 425 7
+bed 426 7
+yes
+bez 427 7
+bde 428 7
+yes
+bdy 429 7
+bcf 430 7
+bcx 431 7
+bbg 432 7
+bbw 433 7
+bub 434 7
+bvc 435 7
+bva 436 7
+bwd 437 7
+yes
+bwz 438 7
+bxe 439 7
+yes
+bxy 440 7
+byf 441 7
+byx 442 7
+yes
+bzg 443 7
+yes
+zzy 444 7
+yes
+azx 445 7
+yes
+bzw 446 7
+yes
+bah 447 7
+yes
+yes
+zax 448 7
+yes
+yes
+aaw 449 7
+yes
+bav 450 7
+tab 451 7
+ubb 452 7
+yes
+uzb 453 7
+uac 454 7
+uaa 455 7
+vcb 456 7
+vbc 457 7
+vba 458 7
+yes
+vyb 459 7
+vzc 460 7
+vza 461 7
+yes
+vad 462 7
+yes
+yes
+vaz 463 7
+wdb 464 7
+wcc 465 7
+wca 466 7
+wbd 467 7
+yes
+wbz 468 7
+wxb 469 7
+wyc 470 7
+wya 471 7
+yes
+wzd 472 7
+yes
+yes
+wzz 473 7
+yes
+wae 474 7
+yes
+yes
+way 475 7
+xeb 476 7
+xdc 477 7
+xda 478 7
+xcd 479 7
+yes
+xcz 480 7
+xbe 481 7
+yes
+xby 482 7
+xwb 483 7
+xxc 484 7
+xxa 485 7
+xyd 486 7
+yes
+xyz 487 7
+yes
+xze 488 7
+yes
+yes
+xzy 489 7
+yes
+xaf 490 7
+yes
+xax 491 7
+yfb 492 7
+yec 493 7
+yea 494 7
+ydd 495 7
+yes
+ydz 496 7
+yce 497 7
+yes
+ycy 498 7
+ybf 499 7
+ybx 500 7
+yvb 501 7
+ywc 502 7
+ywa 503 7
+yxd 504 7
+yes
+yxz 505 7
+yye 506 7
+yes
+yyy 507 7
+yes
+yzf 508 7
+yes
+yzx 509 7
+yes
+yag 510 7
+yes
+yaw 511 7
+yes
+zgb 512 7
+zfc 513 7
+zfa 514 7
+yes
+zed 515 7
+yes
+yes
+zez 516 7
+yes
+zde 517 7
+yes
+yes
+zdy 518 7
+yes
+zcf 519 7
+yes
+zcx 520 7
+yes
+zbg 521 7
+yes
+zbw 522 7
+yes
+zub 523 7
+zvc 524 7
+zva 525 7
+yes
+zwd 526 7
+yes
+yes
+zwz 527 7
+yes
+zxe 528 7
+yes
+yes
+zxy 529 7
+yes
+zyf 530 7
+yes
+zyx 531 7
+yes
+yes
+zzg 532 7
+yes
+yes
+zah 533 7
+yes
+ahb 534 7
+agc 535 7
+aga 536 7
+yes
+afd 537 7
+yes
+yes
+afz 538 7
+yes
+aee 539 7
+yes
+yes
+aey 540 7
+yes
+adf 541 7
+yes
+adx 542 7
+yes
+acg 543 7
+yes
+acw 544 7
+yes
+abh 545 7
+yes
+abv 546 7
+yes
+atb 547 7
+auc 548 7
+aua 549 7
+yes
+avd 550 7
+yes
+yes
+avz 551 7
+yes
+awe 552 7
+yes
+yes
+awy 553 7
+yes
+axf 554 7
+yes
+axx 555 7
+yes
+ayg 556 7
+yes
+ayw 557 7
+yes
+yes
+azh 558 7
+yes
+yes
+aai 559 7
+iab 560 8
+hbb 561 8
+yes
+hzb 562 8
+hac 563 8
+haa 564 8
+gcb 565 8
+gbc 566 8
+gba 567 8
+yes
+gyb 568 8
+gzc 569 8
+gza 570 8
+yes
+gad 571 8
+yes
+yes
+gaz 572 8
+fdb 573 8
+fcc 574 8
+fca 575 8
+fbd 576 8
+yes
+fbz 577 8
+fxb 578 8
+fyc 579 8
+fya 580 8
+yes
+fzd 581 8
+yes
+yes
+fzz 582 8
+yes
+fae 583 8
+yes
+yes
+fay 584 8
+eeb 585 8
+edc 586 8
+eda 587 8
+ecd 588 8
+yes
+ecz 589 8
+ebe 590 8
+yes
+eby 591 8
+ewb 592 8
+exc 593 8
+exa 594 8
+eyd 595 8
+yes
+eyz 596 8
+yes
+eze 597 8
+yes
+yes
+ezy 598 8
+yes
+eaf 599 8
+yes
+eax 600 8
+dfb 601 8
+dec 602 8
+dea 603 8
+ddd 604 8
+yes
+ddz 605 8
+dce 606 8
+yes
+dcy 607 8
+dbf 608 8
+dbx 609 8
+dvb 610 8
+dwc 611 8
+dwa 612 8
+dxd 613 8
+yes
+dxz 614 8
+dye 615 8
+yes
+dyy 616 8
+yes
+dzf 617 8
+yes
+dzx 618 8
+yes
+dag 619 8
+yes
+daw 620 8
+cgb 621 8
+cfc 622 8
+cfa 623 8
+ced 624 8
+yes
+cez 625 8
+cde 626 8
+yes
+cdy 627 8
+ccf 628 8
+ccx 629 8
+cbg 630 8
+cbw 631 8
+cub 632 8
+cvc 633 8
+cva 634 8
+cwd 635 8
+yes
+cwz 636 8
+cxe 637 8
+yes
+cxy 638 8
+cyf 639 8
+cyx 640 8
+yes
+czg 641 8
+yes
+czw 642 8
+yes
+cah 643 8
+yes
+cav 644 8
+bhb 645 8
+bgc 646 8
+bga 647 8
+bfd 648 8
+yes
+bfz 649 8
+bee 650 8
+yes
+bey 651 8
+bdf 652 8
+bdx 653 8
+bcg 654 8
+bcw 655 8
+bbh 656 8
+bbv 657 8
+btb 658 8
+buc 659 8
+bua 660 8
+bvd 661 8
+yes
+bvz 662 8
+bwe 663 8
+yes
+bwy 664 8
+bxf 665 8
+bxx 666 8
+byg 667 8
+byw 668 8
+yes
+bzh 669 8
+yes
+yes
+zzx 670 8
+yes
+yes
+azw 671 8
+yes
+bzv 672 8
+yes
+bai 673 8
+yes
+yes
+zaw 674 8
+yes
+yes
+aav 675 8
+yes
+bau 676 8
+sab 677 8
+tbb 678 8
+yes
+tzb 679 8
+tac 680 8
+taa 681 8
+ucb 682 8
+ubc 683 8
+uba 684 8
+yes
+uyb 685 8
+uzc 686 8
+uza 687 8
+yes
+uad 688 8
+yes
+yes
+uaz 689 8
+vdb 690 8
+vcc 691 8
+vca 692 8
+vbd 693 8
+yes
+vbz 694 8
+vxb 695 8
+vyc 696 8
+vya 697 8
+yes
+vzd 698 8
+yes
+yes
+vzz 699 8
+yes
+vae 700 8
+yes
+yes
+vay 701 8
+web 702 8
+wdc 703 8
+wda 704 8
+wcd 705 8
+yes
+wcz 706 8
+wbe 707 8
+yes
+wby 708 8
+wwb 709 8
+wxc 710 8
+wxa 711 8
+wyd 712 8
+yes
+wyz 713 8
+yes
+wze 714 8
+yes
+yes
+wzy 715 8
+yes
+waf 716 8
+yes
+wax 717 8
+xfb 718 8
+xec 719 8
+xea 720 8
+xdd 721 8
+yes
+xdz 722 8
+xce 723 8
+yes
+xcy 724 8
+xbf 725 8
+xbx 726 8
+xvb 727 8
+xwc 728 8
+xwa 729 8
+xxd 730 8
+yes
+xxz 731 8
+xye 732 8
+yes
+xyy 733 8
+yes
+xzf 734 8
+yes
+xzx 735 8
+yes
+xag 736 8
+yes
+xaw 737 8
+ygb 738 8
+yfc 739 8
+yfa 740 8
+yed 741 8
+yes
+yez 742 8
+yde 743 8
+yes
+ydy 744 8
+ycf 745 8
+ycx 746 8
+ybg 747 8
+ybw 748 8
+yub 749 8
+yvc 750 8
+yva 751 8
+ywd 752 8
+yes
+ywz 753 8
+yxe 754 8
+yes
+yxy 755 8
+yyf 756 8
+yyx 757 8
+yes
+yzg 758 8
+yes
+yzw 759 8
+yes
+yah 760 8
+yes
+yav 761 8
+yes
+zhb 762 8
+zgc 763 8
+zga 764 8
+yes
+zfd 765 8
+yes
+yes
+zfz 766 8
+yes
+zee 767 8
+yes
+yes
+zey 768 8
+yes
+zdf 769 8
+yes
+zdx 770 8
+yes
+zcg 771 8
+yes
+zcw 772 8
+yes
+zbh 773 8
+yes
+zbv 774 8
+yes
+ztb 775 8
+zuc 776 8
+zua 777 8
+yes
+zvd 778 8
+yes
+yes
+zvz 779 8
+yes
+zwe 780 8
+yes
+yes
+zwy 781 8
+yes
+zxf 782 8
+yes
+zxx 783 8
+yes
+zyg 784 8
+yes
+zyw 785 8
+yes
+yes
+zzh 786 8
+yes
+yes
+zai 787 8
+yes
+aib 788 8
+ahc 789 8
+aha 790 8
+yes
+agd 791 8
+yes
+yes
+agz 792 8
+yes
+afe 793 8
+yes
+yes
+afy 794 8
+yes
+aef 795 8
+yes
+aex 796 8
+yes
+adg 797 8
+yes
+adw 798 8
+yes
+ach 799 8
+yes
+acv 800 8
+yes
+abi 801 8
+yes
+abu 802 8
+yes
+asb 803 8
+atc 804 8
+ata 805 8
+yes
+aud 806 8
+yes
+yes
+auz 807 8
+yes
+ave 808 8
+yes
+yes
+avy 809 8
+yes
+awf 810 8
+yes
+awx 811 8
+yes
+axg 812 8
+yes
+axw 813 8
+yes
+ayh 814 8
+yes
+ayv 815 8
+yes
+yes
+azi 816 8
+yes
+yes
+aaj 817 8
+jab 818 9
+ibb 819 9
+yes
+izb 820 9
+iac 821 9
+iaa 822 9
+hcb 823 9
+hbc 824 9
+hba 825 9
+yes
+hyb 826 9
+hzc 827 9
+hza 828 9
+yes
+had 829 9
+yes
+yes
+haz 830 9
+gdb 831 9
+gcc 832 9
+gca 833 9
+gbd 834 9
+yes
+gbz 835 9
+gxb 836 9
+gyc 837 9
+gya 838 9
+yes
+gzd 839 9
+yes
+yes
+gzz 840 9
+yes
+gae 841 9
+yes
+yes
+gay 842 9
+feb 843 9
+fdc 844 9
+fda 845 9
+fcd 846 9
+yes
+fcz 847 9
+fbe 848 9
+yes
+fby 849 9
+fwb 850 9
+fxc 851 9
+fxa 852 9
+fyd 853 9
+yes
+fyz 854 9
+yes
+fze 855 9
+yes
+yes
+fzy 856 9
+yes
+faf 857 9
+yes
+fax 858 9
+efb 859 9
+eec 860 9
+eea 861 9
+edd 862 9
+yes
+edz 863 9
+ece 864 9
+yes
+ecy 865 9
+ebf 866 9
+ebx 867 9
+evb 868 9
+ewc 869 9
+ewa 870 9
+exd 871 9
+yes
+exz 872 9
+eye 873 9
+yes
+eyy 874 9
+yes
+ezf 875 9
+yes
+ezx 876 9
+yes
+eag 877 9
+yes
+eaw 878 9
+dgb 879 9
+dfc 880 9
+dfa 881 9
+ded 882 9
+yes
+dez 883 9
+dde 884 9
+yes
+ddy 885 9
+dcf 886 9
+dcx 887 9
+dbg 888 9
+dbw 889 9
+dub 890 9
+dvc 891 9
+dva 892 9
+dwd 893 9
+yes
+dwz 894 9
+dxe 895 9
+yes
+dxy 896 9
+dyf 897 9
+dyx 898 9
+yes
+dzg 899 9
+yes
+dzw 900 9
+yes
+dah 901 9
+yes
+dav 902 9
+chb 903 9
+cgc 904 9
+cga 905 9
+cfd 906 9
+yes
+cfz 907 9
+cee 908 9
+yes
+cey 909 9
+cdf 910 9
+cdx 911 9
+ccg 912 9
+ccw 913 9
+cbh 914 9
+cbv 915 9
+ctb 916 9
+cuc 917 9
+cua 918 9
+cvd 919 9
+yes
+cvz 920 9
+cwe 921 9
+yes
+cwy 922 9
+cxf 923 9
+cxx 924 9
+cyg 925 9
+cyw 926 9
+yes
+czh 927 9
+yes
+czv 928 9
+yes
+cai 929 9
+yes
+cau 930 9
+bib 931 9
+bhc 932 9
+bha 933 9
+bgd 934 9
+yes
+bgz 935 9
+bfe 936 9
+yes
+bfy 937 9
+bef 938 9
+bex 939 9
+bdg 940 9
+bdw 941 9
+bch 942 9
+bcv 943 9
+bbi 944 9
+bbu 945 9
+bsb 946 9
+btc 947 9
+bta 948 9
+bud 949 9
+yes
+buz 950 9
+bve 951 9
+yes
+bvy 952 9
+bwf 953 9
+bwx 954 9
+bxg 955 9
+bxw 956 9
+byh 957 9
+byv 958 9
+yes
+bzi 959 9
+yes
+yes
+zzw 960 9
+yes
+yes
+azv 961 9
+yes
+bzu 962 9
+yes
+baj 963 9
+yes
+yes
+zav 964 9
+yes
+yes
+aau 965 9
+yes
+bat 966 9
+rab 967 9
+sbb 968 9
+yes
+szb 969 9
+sac 970 9
+saa 971 9
+tcb 972 9
+tbc 973 9
+tba 974 9
+yes
+tyb 975 9
+tzc 976 9
+tza 977 9
+yes
+tad 978 9
+yes
+yes
+taz 979 9
+udb 980 9
+ucc 981 9
+uca 982 9
+ubd 983 9
+yes
+ubz 984 9
+uxb 985 9
+uyc 986 9
+uya 987 9
+yes
+uzd 988 9
+yes
+yes
+uzz 989 9
+yes
+uae 990 9
+yes
+yes
+uay 991 9
+veb 992 9
+vdc 993 9
+vda 994 9
+vcd 995 9
+yes
+vcz 996 9
+vbe 997 9
+yes
+vby 998 9
+vwb 999 9
+vxc 1000 9
+vxa 1001 9
+vyd 1002 9
+yes
+vyz 1003 9
+yes
+vze 1004 9
+yes
+yes
+vzy 1005 9
+yes
+vaf 1006 9
+yes
+vax 1007 9
+wfb 1008 9
+wec 1009 9
+wea 1010 9
+wdd 1011 9
+yes
+wdz 1012 9
+wce 1013 9
+yes
+wcy 1014 9
+wbf 1015 9
+wbx 1016 9
+wvb 1017 9
+wwc 1018 9
+wwa 1019 9
+wxd 1020 9
+yes
+wxz 1021 9
+wye 1022 9
+yes
+wyy 1023 9
+yes
+wzf 1024 9
+yes
+wzx 1025 9
+yes
+wag 1026 9
+yes
+waw 1027 9
+xgb 1028 9
+xfc 1029 9
+xfa 1030 9
+xed 1031 9
+yes
+xez 1032 9
+xde 1033 9
+yes
+xdy 1034 9
+xcf 1035 9
+xcx 1036 9
+xbg 1037 9
+xbw 1038 9
+xub 1039 9
+xvc 1040 9
+xva 1041 9
+xwd 1042 9
+yes
+xwz 1043 9
+xxe 1044 9
+yes
+xxy 1045 9
+xyf 1046 9
+xyx 1047 9
+yes
+xzg 1048 9
+yes
+xzw 1049 9
+yes
+xah 1050 9
+yes
+xav 1051 9
+yhb 1052 9
+ygc 1053 9
+yga 1054 9
+yfd 1055 9
+yes
+yfz 1056 9
+yee 1057 9
+yes
+yey 1058 9
+ydf 1059 9
+ydx 1060 9
+ycg 1061 9
+ycw 1062 9
+ybh 1063 9
+ybv 1064 9
+ytb 1065 9
+yuc 1066 9
+yua 1067 9
+yvd 1068 9
+yes
+yvz 1069 9
+ywe 1070 9
+yes
+ywy 1071 9
+yxf 1072 9
+yxx 1073 9
+yyg 1074 9
+yyw 1075 9
+yes
+yzh 1076 9
+yes
+yzv 1077 9
+yes
+yai 1078 9
+yes
+yau 1079 9
+yes
+zib 1080 9
+zhc 1081 9
+zha 1082 9
+yes
+zgd 1083 9
+yes
+yes
+zgz 1084 9
+yes
+zfe 1085 9
+yes
+yes
+zfy 1086 9
+yes
+zef 1087 9
+yes
+zex 1088 9
+yes
+zdg 1089 9
+yes
+zdw 1090 9
+yes
+zch 1091 9
+yes
+zcv 1092 9
+yes
+zbi 1093 9
+yes
+zbu 1094 9
+yes
+zsb 1095 9
+ztc 1096 9
+zta 1097 9
+yes
+zud 1098 9
+yes
+yes
+zuz 1099 9
+yes
+zve 1100 9
+yes
+yes
+zvy 1101 9
+yes
+zwf 1102 9
+yes
+zwx 1103 9
+yes
+zxg 1104 9
+yes
+zxw 1105 9
+yes
+zyh 1106 9
+yes
+zyv 1107 9
+yes
+yes
+zzi 1108 9
+yes
+yes
+zaj 1109 9
+yes
+ajb 1110 9
+aic 1111 9
+aia 1112 9
+yes
+ahd 1113 9
+yes
+yes
+ahz 1114 9
+yes
+age 1115 9
+yes
+yes
+agy 1116 9
+yes
+aff 1117 9
+yes
+afx 1118 9
+yes
+aeg 1119 9
+yes
+aew 1120 9
+yes
+adh 1121 9
+yes
+adv 1122 9
+yes
+aci 1123 9
+yes
+acu 1124 9
+yes
+abj 1125 9
+yes
+abt 1126 9
+yes
+arb 1127 9
+asc 1128 9
+asa 1129 9
+yes
+atd 1130 9
+yes
+yes
+atz 1131 9
+yes
+aue 1132 9
+yes
+yes
+auy 1133 9
+yes
+avf 1134 9
+yes
+avx 1135 9
+yes
+awg 1136 9
+yes
+aww 1137 9
+yes
+axh 1138 9
+yes
+axv 1139 9
+yes
+ayi 1140 9
+yes
+ayu 1141 9
+yes
+yes
+azj 1142 9
+yes
+yes
+aak 1143 9
+kab 1144 10
+jbb 1145 10
+yes
+jzb 1146 10
+jac 1147 10
+jaa 1148 10
+icb 1149 10
+ibc 1150 10
+iba 1151 10
+yes
+iyb 1152 10
+izc 1153 10
+iza 1154 10
+yes
+iad 1155 10
+yes
+yes
+iaz 1156 10
+hdb 1157 10
+hcc 1158 10
+hca 1159 10
+hbd 1160 10
+yes
+hbz 1161 10
+hxb 1162 10
+hyc 1163 10
+hya 1164 10
+yes
+hzd 1165 10
+yes
+yes
+hzz 1166 10
+yes
+hae 1167 10
+yes
+yes
+hay 1168 10
+geb 1169 10
+gdc 1170 10
+gda 1171 10
+gcd 1172 10
+yes
+gcz 1173 10
+gbe 1174 10
+yes
+gby 1175 10
+gwb 1176 10
+gxc 1177 10
+gxa 1178 10
+gyd 1179 10
+yes
+gyz 1180 10
+yes
+gze 1181 10
+yes
+yes
+gzy 1182 10
+yes
+gaf 1183 10
+yes
+gax 1184 10
+ffb 1185 10
+fec 1186 10
+fea 1187 10
+fdd 1188 10
+yes
+fdz 1189 10
+fce 1190 10
+yes
+fcy 1191 10
+fbf 1192 10
+fbx 1193 10
+fvb 1194 10
+fwc 1195 10
+fwa 1196 10
+fxd 1197 10
+yes
+fxz 1198 10
+fye 1199 10
+yes
+fyy 1200 10
+yes
+fzf 1201 10
+yes
+fzx 1202 10
+yes
+fag 1203 10
+yes
+faw 1204 10
+egb 1205 10
+efc 1206 10
+efa 1207 10
+eed 1208 10
+yes
+eez 1209 10
+ede 1210 10
+yes
+edy 1211 10
+ecf 1212 10
+ecx 1213 10
+ebg 1214 10
+ebw 1215 10
+eub 1216 10
+evc 1217 10
+eva 1218 10
+ewd 1219 10
+yes
+ewz 1220 10
+exe 1221 10
+yes
+exy 1222 10
+eyf 1223 10
+eyx 1224 10
+yes
+ezg 1225 10
+yes
+ezw 1226 10
+yes
+eah 1227 10
+yes
+eav 1228 10
+dhb 1229 10
+dgc 1230 10
+dga 1231 10
+dfd 1232 10
+yes
+dfz 1233 10
+dee 1234 10
+yes
+dey 1235 10
+ddf 1236 10
+ddx 1237 10
+dcg 1238 10
+dcw 1239 10
+dbh 1240 10
+dbv 1241 10
+dtb 1242 10
+duc 1243 10
+dua 1244 10
+dvd 1245 10
+yes
+dvz 1246 10
+dwe 1247 10
+yes
+dwy 1248 10
+dxf 1249 10
+dxx 1250 10
+dyg 1251 10
+dyw 1252 10
+yes
+dzh 1253 10
+yes
+dzv 1254 10
+yes
+dai 1255 10
+yes
+dau 1256 10
+cib 1257 10
+chc 1258 10
+cha 1259 10
+cgd 1260 10
+yes
+cgz 1261 10
+cfe 1262 10
+yes
+cfy 1263 10
+cef 1264 10
+cex 1265 10
+cdg 1266 10
+cdw 1267 10
+cch 1268 10
+ccv 1269 10
+cbi 1270 10
+cbu 1271 10
+csb 1272 10
+ctc 1273 10
+cta 1274 10
+cud 1275 10
+yes
+cuz 1276 10
+cve 1277 10
+yes
+cvy 1278 10
+cwf 1279 10
+cwx 1280 10
+cxg 1281 10
+cxw 1282 10
+cyh 1283 10
+cyv 1284 10
+yes
+czi 1285 10
+yes
+czu 1286 10
+yes
+caj 1287 10
+yes
+cat 1288 10
+bjb 1289 10
+bic 1290 10
+bia 1291 10
+bhd 1292 10
+yes
+bhz 1293 10
+bge 1294 10
+yes
+bgy 1295 10
+bff 1296 10
+bfx 1297 10
+beg 1298 10
+bew 1299 10
+bdh 1300 10
+bdv 1301 10
+bci 1302 10
+bcu 1303 10
+bbj 1304 10
+bbt 1305 10
+brb 1306 10
+bsc 1307 10
+bsa 1308 10
+btd 1309 10
+yes
+btz 1310 10
+bue 1311 10
+yes
+buy 1312 10
+bvf 1313 10
+bvx 1314 10
+bwg 1315 10
+bww 1316 10
+bxh 1317 10
+bxv 1318 10
+byi 1319 10
+byu 1320 10
+yes
+bzj 1321 10
+yes
+yes
+zzv 1322 10
+yes
+yes
+azu 1323 10
+yes
+bzt 1324 10
+yes
+bak 1325 10
+yes
+yes
+zau 1326 10
+yes
+yes
+aat 1327 10
+yes
+bas 1328 10
+qab 1329 10
+rbb 1330 10
+yes
+rzb 1331 10
+rac 1332 10
+raa 1333 10
+scb 1334 10
+sbc 1335 10
+sba 1336 10
+yes
+syb 1337 10
+szc 1338 10
+sza 1339 10
+yes
+sad 1340 10
+yes
+yes
+saz 1341 10
+tdb 1342 10
+tcc 1343 10
+tca 1344 10
+tbd 1345 10
+yes
+tbz 1346 10
+txb 1347 10
+tyc 1348 10
+tya 1349 10
+yes
+tzd 1350 10
+yes
+yes
+tzz 1351 10
+yes
+tae 1352 10
+yes
+yes
+tay 1353 10
+ueb 1354 10
+udc 1355 10
+uda 1356 10
+ucd 1357 10
+yes
+ucz 1358 10
+ube 1359 10
+yes
+uby 1360 10
+uwb 1361 10
+uxc 1362 10
+uxa 1363 10
+uyd 1364 10
+yes
+uyz 1365 10
+yes
+uze 1366 10
+yes
+yes
+uzy 1367 10
+yes
+uaf 1368 10
+yes
+uax 1369 10
+vfb 1370 10
+vec 1371 10
+vea 1372 10
+vdd 1373 10
+yes
+vdz 1374 10
+vce 1375 10
+yes
+vcy 1376 10
+vbf 1377 10
+vbx 1378 10
+vvb 1379 10
+vwc 1380 10
+vwa 1381 10
+vxd 1382 10
+yes
+vxz 1383 10
+vye 1384 10
+yes
+vyy 1385 10
+yes
+vzf 1386 10
+yes
+vzx 1387 10
+yes
+vag 1388 10
+yes
+vaw 1389 10
+wgb 1390 10
+wfc 1391 10
+wfa 1392 10
+wed 1393 10
+yes
+wez 1394 10
+wde 1395 10
+yes
+wdy 1396 10
+wcf 1397 10
+wcx 1398 10
+wbg 1399 10
+wbw 1400 10
+wub 1401 10
+wvc 1402 10
+wva 1403 10
+wwd 1404 10
+yes
+wwz 1405 10
+wxe 1406 10
+yes
+wxy 1407 10
+wyf 1408 10
+wyx 1409 10
+yes
+wzg 1410 10
+yes
+wzw 1411 10
+yes
+wah 1412 10
+yes
+wav 1413 10
+xhb 1414 10
+xgc 1415 10
+xga 1416 10
+xfd 1417 10
+yes
+xfz 1418 10
+xee 1419 10
+yes
+xey 1420 10
+xdf 1421 10
+xdx 1422 10
+xcg 1423 10
+xcw 1424 10
+xbh 1425 10
+xbv 1426 10
+xtb 1427 10
+xuc 1428 10
+xua 1429 10
+xvd 1430 10
+yes
+xvz 1431 10
+xwe 1432 10
+yes
+xwy 1433 10
+xxf 1434 10
+xxx 1435 10
+xyg 1436 10
+xyw 1437 10
+yes
+xzh 1438 10
+yes
+xzv 1439 10
+yes
+xai 1440 10
+yes
+xau 1441 10
+yib 1442 10
+yhc 1443 10
+yha 1444 10
+ygd 1445 10
+yes
+ygz 1446 10
+yfe 1447 10
+yes
+yfy 1448 10
+yef 1449 10
+yex 1450 10
+ydg 1451 10
+ydw 1452 10
+ych 1453 10
+ycv 1454 10
+ybi 1455 10
+ybu 1456 10
+ysb 1457 10
+ytc 1458 10
+yta 1459 10
+yud 1460 10
+yes
+yuz 1461 10
+yve 1462 10
+yes
+yvy 1463 10
+ywf 1464 10
+ywx 1465 10
+yxg 1466 10
+yxw 1467 10
+yyh 1468 10
+yyv 1469 10
+yes
+yzi 1470 10
+yes
+yzu 1471 10
+yes
+yaj 1472 10
+yes
+yat 1473 10
+yes
+zjb 1474 10
+zic 1475 10
+zia 1476 10
+yes
+zhd 1477 10
+yes
+yes
+zhz 1478 10
+yes
+zge 1479 10
+yes
+yes
+zgy 1480 10
+yes
+zff 1481 10
+yes
+zfx 1482 10
+yes
+zeg 1483 10
+yes
+zew 1484 10
+yes
+zdh 1485 10
+yes
+zdv 1486 10
+yes
+zci 1487 10
+yes
+zcu 1488 10
+yes
+zbj 1489 10
+yes
+zbt 1490 10
+yes
+zrb 1491 10
+zsc 1492 10
+zsa 1493 10
+yes
+ztd 1494 10
+yes
+yes
+ztz 1495 10
+yes
+zue 1496 10
+yes
+yes
+zuy 1497 10
+yes
+zvf 1498 10
+yes
+zvx 1499 10
+yes
+zwg 1500 10
+yes
+zww 1501 10
+yes
+zxh 1502 10
+yes
+zxv 1503 10
+yes
+zyi 1504 10
+yes
+zyu 1505 10
+yes
+yes
+zzj 1506 10
+yes
+yes
+zak 1507 10
+yes
+akb 1508 10
+ajc 1509 10
+aja 1510 10
+yes
+aid 1511 10
+yes
+yes
+aiz 1512 10
+yes
+ahe 1513 10
+yes
+yes
+ahy 1514 10
+yes
+agf 1515 10
+yes
+agx 1516 10
+yes
+afg 1517 10
+yes
+afw 1518 10
+yes
+aeh 1519 10
+yes
+aev 1520 10
+yes
+adi 1521 10
+yes
+adu 1522 10
+yes
+acj 1523 10
+yes
+act 1524 10
+yes
+abk 1525 10
+yes
+abs 1526 10
+yes
+aqb 1527 10
+arc 1528 10
+ara 1529 10
+yes
+asd 1530 10
+yes
+yes
+asz 1531 10
+yes
+ate 1532 10
+yes
+yes
+aty 1533 10
+yes
+auf 1534 10
+yes
+aux 1535 10
+yes
+avg 1536 10
+yes
+avw 1537 10
+yes
+awh 1538 10
+yes
+awv 1539 10
+yes
+axi 1540 10
+yes
+axu 1541 10
+yes
+ayj 1542 10
+yes
+ayt 1543 10
+yes
+yes
+azk 1544 10
+yes
+yes
+aal 1545 10
+lab 1546 11
+kbb 1547 11
+yes
+kzb 1548 11
+kac 1549 11
+kaa 1550 11
+jcb 1551 11
+jbc 1552 11
+jba 1553 11
+yes
+jyb 1554 11
+jzc 1555 11
+jza 1556 11
+yes
+jad 1557 11
+yes
+yes
+jaz 1558 11
+idb 1559 11
+icc 1560 11
+ica 1561 11
+ibd 1562 11
+yes
+ibz 1563 11
+ixb 1564 11
+iyc 1565 11
+iya 1566 11
+yes
+izd 1567 11
+yes
+yes
+izz 1568 11
+yes
+iae 1569 11
+yes
+yes
+iay 1570 11
+heb 1571 11
+hdc 1572 11
+hda 1573 11
+hcd 1574 11
+yes
+hcz 1575 11
+hbe 1576 11
+yes
+hby 1577 11
+hwb 1578 11
+hxc 1579 11
+hxa 1580 11
+hyd 1581 11
+yes
+hyz 1582 11
+yes
+hze 1583 11
+yes
+yes
+hzy 1584 11
+yes
+haf 1585 11
+yes
+hax 1586 11
+gfb 1587 11
+gec 1588 11
+gea 1589 11
+gdd 1590 11
+yes
+gdz 1591 11
+gce 1592 11
+yes
+gcy 1593 11
+gbf 1594 11
+gbx 1595 11
+gvb 1596 11
+gwc 1597 11
+gwa 1598 11
+gxd 1599 11
+yes
+gxz 1600 11
+gye 1601 11
+yes
+gyy 1602 11
+yes
+gzf 1603 11
+yes
+gzx 1604 11
+yes
+gag 1605 11
+yes
+gaw 1606 11
+fgb 1607 11
+ffc 1608 11
+ffa 1609 11
+fed 1610 11
+yes
+fez 1611 11
+fde 1612 11
+yes
+fdy 1613 11
+fcf 1614 11
+fcx 1615 11
+fbg 1616 11
+fbw 1617 11
+fub 1618 11
+fvc 1619 11
+fva 1620 11
+fwd 1621 11
+yes
+fwz 1622 11
+fxe 1623 11
+yes
+fxy 1624 11
+fyf 1625 11
+fyx 1626 11
+yes
+fzg 1627 11
+yes
+fzw 1628 11
+yes
+fah 1629 11
+yes
+fav 1630 11
+ehb 1631 11
+egc 1632 11
+ega 1633 11
+efd 1634 11
+yes
+efz 1635 11
+eee 1636 11
+yes
+eey 1637 11
+edf 1638 11
+edx 1639 11
+ecg 1640 11
+ecw 1641 11
+ebh 1642 11
+ebv 1643 11
+etb 1644 11
+euc 1645 11
+eua 1646 11
+evd 1647 11
+yes
+evz 1648 11
+ewe 1649 11
+yes
+ewy 1650 11
+exf 1651 11
+exx 1652 11
+eyg 1653 11
+eyw 1654 11
+yes
+ezh 1655 11
+yes
+ezv 1656 11
+yes
+eai 1657 11
+yes
+eau 1658 11
+dib 1659 11
+dhc 1660 11
+dha 1661 11
+dgd 1662 11
+yes
+dgz 1663 11
+dfe 1664 11
+yes
+dfy 1665 11
+def 1666 11
+dex 1667 11
+ddg 1668 11
+ddw 1669 11
+dch 1670 11
+dcv 1671 11
+dbi 1672 11
+dbu 1673 11
+dsb 1674 11
+dtc 1675 11
+dta 1676 11
+dud 1677 11
+yes
+duz 1678 11
+dve 1679 11
+yes
+dvy 1680 11
+dwf 1681 11
+dwx 1682 11
+dxg 1683 11
+dxw 1684 11
+dyh 1685 11
+dyv 1686 11
+yes
+dzi 1687 11
+yes
+dzu 1688 11
+yes
+daj 1689 11
+yes
+dat 1690 11
+cjb 1691 11
+cic 1692 11
+cia 1693 11
+chd 1694 11
+yes
+chz 1695 11
+cge 1696 11
+yes
+cgy 1697 11
+cff 1698 11
+cfx 1699 11
+ceg 1700 11
+cew 1701 11
+cdh 1702 11
+cdv 1703 11
+cci 1704 11
+ccu 1705 11
+cbj 1706 11
+cbt 1707 11
+crb 1708 11
+csc 1709 11
+csa 1710 11
+ctd 1711 11
+yes
+ctz 1712 11
+cue 1713 11
+yes
+cuy 1714 11
+cvf 1715 11
+cvx 1716 11
+cwg 1717 11
+cww 1718 11
+cxh 1719 11
+cxv 1720 11
+cyi 1721 11
+cyu 1722 11
+yes
+czj 1723 11
+yes
+czt 1724 11
+yes
+cak 1725 11
+yes
+cas 1726 11
+bkb 1727 11
+bjc 1728 11
+bja 1729 11
+bid 1730 11
+yes
+biz 1731 11
+bhe 1732 11
+yes
+bhy 1733 11
+bgf 1734 11
+bgx 1735 11
+bfg 1736 11
+bfw 1737 11
+beh 1738 11
+bev 1739 11
+bdi 1740 11
+bdu 1741 11
+bcj 1742 11
+bct 1743 11
+bbk 1744 11
+bbs 1745 11
+bqb 1746 11
+brc 1747 11
+bra 1748 11
+bsd 1749 11
+yes
+bsz 1750 11
+bte 1751 11
+yes
+bty 1752 11
+buf 1753 11
+bux 1754 11
+bvg 1755 11
+bvw 1756 11
+bwh 1757 11
+bwv 1758 11
+bxi 1759 11
+bxu 1760 11
+byj 1761 11
+byt 1762 11
+yes
+bzk 1763 11
+yes
+yes
+zzu 1764 11
+yes
+yes
+azt 1765 11
+yes
+bzs 1766 11
+yes
+bal 1767 11
+yes
+yes
+zat 1768 11
+yes
+yes
+aas 1769 11
+yes
+bar 1770 11
+pab 1771 11
+qbb 1772 11
+yes
+qzb 1773 11
+qac 1774 11
+qaa 1775 11
+rcb 1776 11
+rbc 1777 11
+rba 1778 11
+yes
+ryb 1779 11
+rzc 1780 11
+rza 1781 11
+yes
+rad 1782 11
+yes
+yes
+raz 1783 11
+sdb 1784 11
+scc 1785 11
+sca 1786 11
+sbd 1787 11
+yes
+sbz 1788 11
+sxb 1789 11
+syc 1790 11
+sya 1791 11
+yes
+szd 1792 11
+yes
+yes
+szz 1793 11
+yes
+sae 1794 11
+yes
+yes
+say 1795 11
+teb 1796 11
+tdc 1797 11
+tda 1798 11
+tcd 1799 11
+yes
+tcz 1800 11
+tbe 1801 11
+yes
+tby 1802 11
+twb 1803 11
+txc 1804 11
+txa 1805 11
+tyd 1806 11
+yes
+tyz 1807 11
+yes
+tze 1808 11
+yes
+yes
+tzy 1809 11
+yes
+taf 1810 11
+yes
+tax 1811 11
+ufb 1812 11
+uec 1813 11
+uea 1814 11
+udd 1815 11
+yes
+udz 1816 11
+uce 1817 11
+yes
+ucy 1818 11
+ubf 1819 11
+ubx 1820 11
+uvb 1821 11
+uwc 1822 11
+uwa 1823 11
+uxd 1824 11
+yes
+uxz 1825 11
+uye 1826 11
+yes
+uyy 1827 11
+yes
+uzf 1828 11
+yes
+uzx 1829 11
+yes
+uag 1830 11
+yes
+uaw 1831 11
+vgb 1832 11
+vfc 1833 11
+vfa 1834 11
+ved 1835 11
+yes
+vez 1836 11
+vde 1837 11
+yes
+vdy 1838 11
+vcf 1839 11
+vcx 1840 11
+vbg 1841 11
+vbw 1842 11
+vub 1843 11
+vvc 1844 11
+vva 1845 11
+vwd 1846 11
+yes
+vwz 1847 11
+vxe 1848 11
+yes
+vxy 1849 11
+vyf 1850 11
+vyx 1851 11
+yes
+vzg 1852 11
+yes
+vzw 1853 11
+yes
+vah 1854 11
+yes
+vav 1855 11
+whb 1856 11
+wgc 1857 11
+wga 1858 11
+wfd 1859 11
+yes
+wfz 1860 11
+wee 1861 11
+yes
+wey 1862 11
+wdf 1863 11
+wdx 1864 11
+wcg 1865 11
+wcw 1866 11
+wbh 1867 11
+wbv 1868 11
+wtb 1869 11
+wuc 1870 11
+wua 1871 11
+wvd 1872 11
+yes
+wvz 1873 11
+wwe 1874 11
+yes
+wwy 1875 11
+wxf 1876 11
+wxx 1877 11
+wyg 1878 11
+wyw 1879 11
+yes
+wzh 1880 11
+yes
+wzv 1881 11
+yes
+wai 1882 11
+yes
+wau 1883 11
+xib 1884 11
+xhc 1885 11
+xha 1886 11
+xgd 1887 11
+yes
+xgz 1888 11
+xfe 1889 11
+yes
+xfy 1890 11
+xef 1891 11
+xex 1892 11
+xdg 1893 11
+xdw 1894 11
+xch 1895 11
+xcv 1896 11
+xbi 1897 11
+xbu 1898 11
+xsb 1899 11
+xtc 1900 11
+xta 1901 11
+xud 1902 11
+yes
+xuz 1903 11
+xve 1904 11
+yes
+xvy 1905 11
+xwf 1906 11
+xwx 1907 11
+xxg 1908 11
+xxw 1909 11
+xyh 1910 11
+xyv 1911 11
+yes
+xzi 1912 11
+yes
+xzu 1913 11
+yes
+xaj 1914 11
+yes
+xat 1915 11
+yjb 1916 11
+yic 1917 11
+yia 1918 11
+yhd 1919 11
+yes
+yhz 1920 11
+yge 1921 11
+yes
+ygy 1922 11
+yff 1923 11
+yfx 1924 11
+yeg 1925 11
+yew 1926 11
+ydh 1927 11
+ydv 1928 11
+yci 1929 11
+ycu 1930 11
+ybj 1931 11
+ybt 1932 11
+yrb 1933 11
+ysc 1934 11
+ysa 1935 11
+ytd 1936 11
+yes
+ytz 1937 11
+yue 1938 11
+yes
+yuy 1939 11
+yvf 1940 11
+yvx 1941 11
+ywg 1942 11
+yww 1943 11
+yxh 1944 11
+yxv 1945 11
+yyi 1946 11
+yyu 1947 11
+yes
+yzj 1948 11
+yes
+yzt 1949 11
+yes
+yak 1950 11
+yes
+yas 1951 11
+yes
+zkb 1952 11
+zjc 1953 11
+zja 1954 11
+yes
+zid 1955 11
+yes
+yes
+ziz 1956 11
+yes
+zhe 1957 11
+yes
+yes
+zhy 1958 11
+yes
+zgf 1959 11
+yes
+zgx 1960 11
+yes
+zfg 1961 11
+yes
+zfw 1962 11
+yes
+zeh 1963 11
+yes
+zev 1964 11
+yes
+zdi 1965 11
+yes
+zdu 1966 11
+yes
+zcj 1967 11
+yes
+zct 1968 11
+yes
+zbk 1969 11
+yes
+zbs 1970 11
+yes
+zqb 1971 11
+zrc 1972 11
+zra 1973 11
+yes
+zsd 1974 11
+yes
+yes
+zsz 1975 11
+yes
+zte 1976 11
+yes
+yes
+zty 1977 11
+yes
+zuf 1978 11
+yes
+zux 1979 11
+yes
+zvg 1980 11
+yes
+zvw 1981 11
+yes
+zwh 1982 11
+yes
+zwv 1983 11
+yes
+zxi 1984 11
+yes
+zxu 1985 11
+yes
+zyj 1986 11
+yes
+zyt 1987 11
+yes
+yes
+zzk 1988 11
+yes
+yes
+zal 1989 11
+yes
+alb 1990 11
+akc 1991 11
+aka 1992 11
+yes
+ajd 1993 11
+yes
+yes
+ajz 1994 11
+yes
+aie 1995 11
+yes
+yes
+aiy 1996 11
+yes
+ahf 1997 11
+yes
+ahx 1998 11
+yes
+agg 1999 11
+yes
+agw 2000 11
+yes
+afh 2001 11
+yes
+afv 2002 11
+yes
+aei 2003 11
+yes
+aeu 2004 11
+yes
+adj 2005 11
+yes
+adt 2006 11
+yes
+ack 2007 11
+yes
+acs 2008 11
+yes
+abl 2009 11
+yes
+abr 2010 11
+yes
+apb 2011 11
+aqc 2012 11
+aqa 2013 11
+yes
+ard 2014 11
+yes
+yes
+arz 2015 11
+yes
+ase 2016 11
+yes
+yes
+asy 2017 11
+yes
+atf 2018 11
+yes
+atx 2019 11
+yes
+aug 2020 11
+yes
+auw 2021 11
+yes
+avh 2022 11
+yes
+avv 2023 11
+yes
+awi 2024 11
+yes
+awu 2025 11
+yes
+axj 2026 11
+yes
+axt 2027 11
+yes
+ayk 2028 11
+yes
+ays 2029 11
+yes
+yes
+azl 2030 11
+yes
+yes
+aam 2031 11
+mab 2032 12
+lbb 2033 12
+yes
+lzb 2034 12
+lac 2035 12
+laa 2036 12
+kcb 2037 12
+kbc 2038 12
+kba 2039 12
+yes
+kyb 2040 12
+kzc 2041 12
+kza 2042 12
+yes
+kad 2043 12
+yes
+yes
+kaz 2044 12
+jdb 2045 12
+jcc 2046 12
+jca 2047 12
+jbd 2048 12
+yes
+jbz 2049 12
+jxb 2050 12
+jyc 2051 12
+jya 2052 12
+yes
+jzd 2053 12
+yes
+yes
+jzz 2054 12
+yes
+jae 2055 12
+yes
+yes
+jay 2056 12
+ieb 2057 12
+idc 2058 12
+ida 2059 12
+icd 2060 12
+yes
+icz 2061 12
+ibe 2062 12
+yes
+iby 2063 12
+iwb 2064 12
+ixc 2065 12
+ixa 2066 12
+iyd 2067 12
+yes
+iyz 2068 12
+yes
+ize 2069 12
+yes
+yes
+izy 2070 12
+yes
+iaf 2071 12
+yes
+iax 2072 12
+hfb 2073 12
+hec 2074 12
+hea 2075 12
+hdd 2076 12
+yes
+hdz 2077 12
+hce 2078 12
+yes
+hcy 2079 12
+hbf 2080 12
+hbx 2081 12
+hvb 2082 12
+hwc 2083 12
+hwa 2084 12
+hxd 2085 12
+yes
+hxz 2086 12
+hye 2087 12
+yes
+hyy 2088 12
+yes
+hzf 2089 12
+yes
+hzx 2090 12
+yes
+hag 2091 12
+yes
+haw 2092 12
+ggb 2093 12
+gfc 2094 12
+gfa 2095 12
+ged 2096 12
+yes
+gez 2097 12
+gde 2098 12
+yes
+gdy 2099 12
+gcf 2100 12
+gcx 2101 12
+gbg 2102 12
+gbw 2103 12
+gub 2104 12
+gvc 2105 12
+gva 2106 12
+gwd 2107 12
+yes
+gwz 2108 12
+gxe 2109 12
+yes
+gxy 2110 12
+gyf 2111 12
+gyx 2112 12
+yes
+gzg 2113 12
+yes
+gzw 2114 12
+yes
+gah 2115 12
+yes
+gav 2116 12
+fhb 2117 12
+fgc 2118 12
+fga 2119 12
+ffd 2120 12
+yes
+ffz 2121 12
+fee 2122 12
+yes
+fey 2123 12
+fdf 2124 12
+fdx 2125 12
+fcg 2126 12
+fcw 2127 12
+fbh 2128 12
+fbv 2129 12
+ftb 2130 12
+fuc 2131 12
+fua 2132 12
+fvd 2133 12
+yes
+fvz 2134 12
+fwe 2135 12
+yes
+fwy 2136 12
+fxf 2137 12
+fxx 2138 12
+fyg 2139 12
+fyw 2140 12
+yes
+fzh 2141 12
+yes
+fzv 2142 12
+yes
+fai 2143 12
+yes
+fau 2144 12
+eib 2145 12
+ehc 2146 12
+eha 2147 12
+egd 2148 12
+yes
+egz 2149 12
+efe 2150 12
+yes
+efy 2151 12
+eef 2152 12
+eex 2153 12
+edg 2154 12
+edw 2155 12
+ech 2156 12
+ecv 2157 12
+ebi 2158 12
+ebu 2159 12
+esb 2160 12
+etc 2161 12
+eta 2162 12
+eud 2163 12
+yes
+euz 2164 12
+eve 2165 12
+yes
+evy 2166 12
+ewf 2167 12
+ewx 2168 12
+exg 2169 12
+exw 2170 12
+eyh 2171 12
+eyv 2172 12
+yes
+ezi 2173 12
+yes
+ezu 2174 12
+yes
+eaj 2175 12
+yes
+eat 2176 12
+djb 2177 12
+dic 2178 12
+dia 2179 12
+dhd 2180 12
+yes
+dhz 2181 12
+dge 2182 12
+yes
+dgy 2183 12
+dff 2184 12
+dfx 2185 12
+deg 2186 12
+dew 2187 12
+ddh 2188 12
+ddv 2189 12
+dci 2190 12
+dcu 2191 12
+dbj 2192 12
+dbt 2193 12
+drb 2194 12
+dsc 2195 12
+dsa 2196 12
+dtd 2197 12
+yes
+dtz 2198 12
+due 2199 12
+yes
+duy 2200 12
+dvf 2201 12
+dvx 2202 12
+dwg 2203 12
+dww 2204 12
+dxh 2205 12
+dxv 2206 12
+dyi 2207 12
+dyu 2208 12
+yes
+dzj 2209 12
+yes
+dzt 2210 12
+yes
+dak 2211 12
+yes
+das 2212 12
+ckb 2213 12
+cjc 2214 12
+cja 2215 12
+cid 2216 12
+yes
+ciz 2217 12
+che 2218 12
+yes
+chy 2219 12
+cgf 2220 12
+cgx 2221 12
+cfg 2222 12
+cfw 2223 12
+ceh 2224 12
+cev 2225 12
+cdi 2226 12
+cdu 2227 12
+ccj 2228 12
+cct 2229 12
+cbk 2230 12
+cbs 2231 12
+cqb 2232 12
+crc 2233 12
+cra 2234 12
+csd 2235 12
+yes
+csz 2236 12
+cte 2237 12
+yes
+cty 2238 12
+cuf 2239 12
+cux 2240 12
+cvg 2241 12
+cvw 2242 12
+cwh 2243 12
+cwv 2244 12
+cxi 2245 12
+cxu 2246 12
+cyj 2247 12
+cyt 2248 12
+yes
+czk 2249 12
+yes
+czs 2250 12
+yes
+cal 2251 12
+yes
+car 2252 12
+blb 2253 12
+bkc 2254 12
+bka 2255 12
+bjd 2256 12
+yes
+bjz 2257 12
+bie 2258 12
+yes
+biy 2259 12
+bhf 2260 12
+bhx 2261 12
+bgg 2262 12
+bgw 2263 12
+bfh 2264 12
+bfv 2265 12
+bei 2266 12
+beu 2267 12
+bdj 2268 12
+bdt 2269 12
+bck 2270 12
+bcs 2271 12
+bbl 2272 12
+bbr 2273 12
+bpb 2274 12
+bqc 2275 12
+bqa 2276 12
+brd 2277 12
+yes
+brz 2278 12
+bse 2279 12
+yes
+bsy 2280 12
+btf 2281 12
+btx 2282 12
+bug 2283 12
+buw 2284 12
+bvh 2285 12
+bvv 2286 12
+bwi 2287 12
+bwu 2288 12
+bxj 2289 12
+bxt 2290 12
+byk 2291 12
+bys 2292 12
+yes
+bzl 2293 12
+yes
+yes
+zzt 2294 12
+yes
+yes
+azs 2295 12
+yes
+bzr 2296 12
+yes
+bam 2297 12
+yes
+yes
+zas 2298 12
+yes
+yes
+aar 2299 12
+yes
+baq 2300 12
+oab 2301 12
+pbb 2302 12
+yes
+pzb 2303 12
+pac 2304 12
+paa 2305 12
+qcb 2306 12
+qbc 2307 12
+qba 2308 12
+yes
+qyb 2309 12
+qzc 2310 12
+qza 2311 12
+yes
+qad 2312 12
+yes
+yes
+qaz 2313 12
+rdb 2314 12
+rcc 2315 12
+rca 2316 12
+rbd 2317 12
+yes
+rbz 2318 12
+rxb 2319 12
+ryc 2320 12
+rya 2321 12
+yes
+rzd 2322 12
+yes
+yes
+rzz 2323 12
+yes
+rae 2324 12
+yes
+yes
+ray 2325 12
+seb 2326 12
+sdc 2327 12
+sda 2328 12
+scd 2329 12
+yes
+scz 2330 12
+sbe 2331 12
+yes
+sby 2332 12
+swb 2333 12
+sxc 2334 12
+sxa 2335 12
+syd 2336 12
+yes
+syz 2337 12
+yes
+sze 2338 12
+yes
+yes
+szy 2339 12
+yes
+saf 2340 12
+yes
+sax 2341 12
+tfb 2342 12
+tec 2343 12
+tea 2344 12
+tdd 2345 12
+yes
+tdz 2346 12
+tce 2347 12
+yes
+tcy 2348 12
+tbf 2349 12
+tbx 2350 12
+tvb 2351 12
+twc 2352 12
+twa 2353 12
+txd 2354 12
+yes
+txz 2355 12
+tye 2356 12
+yes
+tyy 2357 12
+yes
+tzf 2358 12
+yes
+tzx 2359 12
+yes
+tag 2360 12
+yes
+taw 2361 12
+ugb 2362 12
+ufc 2363 12
+ufa 2364 12
+ued 2365 12
+yes
+uez 2366 12
+ude 2367 12
+yes
+udy 2368 12
+ucf 2369 12
+ucx 2370 12
+ubg 2371 12
+ubw 2372 12
+uub 2373 12
+uvc 2374 12
+uva 2375 12
+uwd 2376 12
+yes
+uwz 2377 12
+uxe 2378 12
+yes
+uxy 2379 12
+uyf 2380 12
+uyx 2381 12
+yes
+uzg 2382 12
+yes
+uzw 2383 12
+yes
+uah 2384 12
+yes
+uav 2385 12
+vhb 2386 12
+vgc 2387 12
+vga 2388 12
+vfd 2389 12
+yes
+vfz 2390 12
+vee 2391 12
+yes
+vey 2392 12
+vdf 2393 12
+vdx 2394 12
+vcg 2395 12
+vcw 2396 12
+vbh 2397 12
+vbv 2398 12
+vtb 2399 12
+vuc 2400 12
+vua 2401 12
+vvd 2402 12
+yes
+vvz 2403 12
+vwe 2404 12
+yes
+vwy 2405 12
+vxf 2406 12
+vxx 2407 12
+vyg 2408 12
+vyw 2409 12
+yes
+vzh 2410 12
+yes
+vzv 2411 12
+yes
+vai 2412 12
+yes
+vau 2413 12
+wib 2414 12
+whc 2415 12
+wha 2416 12
+wgd 2417 12
+yes
+wgz 2418 12
+wfe 2419 12
+yes
+wfy 2420 12
+wef 2421 12
+wex 2422 12
+wdg 2423 12
+wdw 2424 12
+wch 2425 12
+wcv 2426 12
+wbi 2427 12
+wbu 2428 12
+wsb 2429 12
+wtc 2430 12
+wta 2431 12
+wud 2432 12
+yes
+wuz 2433 12
+wve 2434 12
+yes
+wvy 2435 12
+wwf 2436 12
+wwx 2437 12
+wxg 2438 12
+wxw 2439 12
+wyh 2440 12
+wyv 2441 12
+yes
+wzi 2442 12
+yes
+wzu 2443 12
+yes
+waj 2444 12
+yes
+wat 2445 12
+xjb 2446 12
+xic 2447 12
+xia 2448 12
+xhd 2449 12
+yes
+xhz 2450 12
+xge 2451 12
+yes
+xgy 2452 12
+xff 2453 12
+xfx 2454 12
+xeg 2455 12
+xew 2456 12
+xdh 2457 12
+xdv 2458 12
+xci 2459 12
+xcu 2460 12
+xbj 2461 12
+xbt 2462 12
+xrb 2463 12
+xsc 2464 12
+xsa 2465 12
+xtd 2466 12
+yes
+xtz 2467 12
+xue 2468 12
+yes
+xuy 2469 12
+xvf 2470 12
+xvx 2471 12
+xwg 2472 12
+xww 2473 12
+xxh 2474 12
+xxv 2475 12
+xyi 2476 12
+xyu 2477 12
+yes
+xzj 2478 12
+yes
+xzt 2479 12
+yes
+xak 2480 12
+yes
+xas 2481 12
+ykb 2482 12
+yjc 2483 12
+yja 2484 12
+yid 2485 12
+yes
+yiz 2486 12
+yhe 2487 12
+yes
+yhy 2488 12
+ygf 2489 12
+ygx 2490 12
+yfg 2491 12
+yfw 2492 12
+yeh 2493 12
+yev 2494 12
+ydi 2495 12
+ydu 2496 12
+ycj 2497 12
+yct 2498 12
+ybk 2499 12
+ybs 2500 12
+yqb 2501 12
+yrc 2502 12
+yra 2503 12
+ysd 2504 12
+yes
+ysz 2505 12
+yte 2506 12
+yes
+yty 2507 12
+yuf 2508 12
+yux 2509 12
+yvg 2510 12
+yvw 2511 12
+ywh 2512 12
+ywv 2513 12
+yxi 2514 12
+yxu 2515 12
+yyj 2516 12
+yyt 2517 12
+yes
+yzk 2518 12
+yes
+yzs 2519 12
+yes
+yal 2520 12
+yes
+yar 2521 12
+yes
+zlb 2522 12
+zkc 2523 12
+zka 2524 12
+yes
+zjd 2525 12
+yes
+yes
+zjz 2526 12
+yes
+zie 2527 12
+yes
+yes
+ziy 2528 12
+yes
+zhf 2529 12
+yes
+zhx 2530 12
+yes
+zgg 2531 12
+yes
+zgw 2532 12
+yes
+zfh 2533 12
+yes
+zfv 2534 12
+yes
+zei 2535 12
+yes
+zeu 2536 12
+yes
+zdj 2537 12
+yes
+zdt 2538 12
+yes
+zck 2539 12
+yes
+zcs 2540 12
+yes
+zbl 2541 12
+yes
+zbr 2542 12
+yes
+zpb 2543 12
+zqc 2544 12
+zqa 2545 12
+yes
+zrd 2546 12
+yes
+yes
+zrz 2547 12
+yes
+zse 2548 12
+yes
+yes
+zsy 2549 12
+yes
+ztf 2550 12
+yes
+ztx 2551 12
+yes
+zug 2552 12
+yes
+zuw 2553 12
+yes
+zvh 2554 12
+yes
+zvv 2555 12
+yes
+zwi 2556 12
+yes
+zwu 2557 12
+yes
+zxj 2558 12
+yes
+zxt 2559 12
+yes
+zyk 2560 12
+yes
+zys 2561 12
+yes
+yes
+zzl 2562 12
+yes
+yes
+zam 2563 12
+yes
+amb 2564 12
+alc 2565 12
+ala 2566 12
+yes
+akd 2567 12
+yes
+yes
+akz 2568 12
+yes
+aje 2569 12
+yes
+yes
+ajy 2570 12
+yes
+aif 2571 12
+yes
+aix 2572 12
+yes
+ahg 2573 12
+yes
+ahw 2574 12
+yes
+agh 2575 12
+yes
+agv 2576 12
+yes
+afi 2577 12
+yes
+afu 2578 12
+yes
+aej 2579 12
+yes
+aet 2580 12
+yes
+adk 2581 12
+yes
+ads 2582 12
+yes
+acl 2583 12
+yes
+acr 2584 12
+yes
+abm 2585 12
+yes
+abq 2586 12
+yes
+aob 2587 12
+apc 2588 12
+apa 2589 12
+yes
+aqd 2590 12
+yes
+yes
+aqz 2591 12
+yes
+are 2592 12
+yes
+yes
+ary 2593 12
+yes
+asf 2594 12
+yes
+asx 2595 12
+yes
+atg 2596 12
+yes
+atw 2597 12
+yes
+auh 2598 12
+yes
+auv 2599 12
+yes
+avi 2600 12
+yes
+avu 2601 12
+yes
+awj 2602 12
+yes
+awt 2603 12
+yes
+axk 2604 12
+yes
+axs 2605 12
+yes
+ayl 2606 12
+yes
+ayr 2607 12
+yes
+yes
+azm 2608 12
+yes
+yes
+aan 2609 12
+nab 2610 13
+mbb 2611 13
+yes
+mzb 2612 13
+mac 2613 13
+maa 2614 13
+lcb 2615 13
+lbc 2616 13
+lba 2617 13
+yes
+lyb 2618 13
+lzc 2619 13
+lza 2620 13
+yes
+lad 2621 13
+yes
+yes
+laz 2622 13
+kdb 2623 13
+kcc 2624 13
+kca 2625 13
+kbd 2626 13
+yes
+kbz 2627 13
+kxb 2628 13
+kyc 2629 13
+kya 2630 13
+yes
+kzd 2631 13
+yes
+yes
+kzz 2632 13
+yes
+kae 2633 13
+yes
+yes
+kay 2634 13
+jeb 2635 13
+jdc 2636 13
+jda 2637 13
+jcd 2638 13
+yes
+jcz 2639 13
+jbe 2640 13
+yes
+jby 2641 13
+jwb 2642 13
+jxc 2643 13
+jxa 2644 13
+jyd 2645 13
+yes
+jyz 2646 13
+yes
+jze 2647 13
+yes
+yes
+jzy 2648 13
+yes
+jaf 2649 13
+yes
+jax 2650 13
+ifb 2651 13
+iec 2652 13
+iea 2653 13
+idd 2654 13
+yes
+idz 2655 13
+ice 2656 13
+yes
+icy 2657 13
+ibf 2658 13
+ibx 2659 13
+ivb 2660 13
+iwc 2661 13
+iwa 2662 13
+ixd 2663 13
+yes
+ixz 2664 13
+iye 2665 13
+yes
+iyy 2666 13
+yes
+izf 2667 13
+yes
+izx 2668 13
+yes
+iag 2669 13
+yes
+iaw 2670 13
+hgb 2671 13
+hfc 2672 13
+hfa 2673 13
+hed 2674 13
+yes
+hez 2675 13
+hde 2676 13
+yes
+hdy 2677 13
+hcf 2678 13
+hcx 2679 13
+hbg 2680 13
+hbw 2681 13
+hub 2682 13
+hvc 2683 13
+hva 2684 13
+hwd 2685 13
+yes
+hwz 2686 13
+hxe 2687 13
+yes
+hxy 2688 13
+hyf 2689 13
+hyx 2690 13
+yes
+hzg 2691 13
+yes
+hzw 2692 13
+yes
+hah 2693 13
+yes
+hav 2694 13
+ghb 2695 13
+ggc 2696 13
+gga 2697 13
+gfd 2698 13
+yes
+gfz 2699 13
+gee 2700 13
+yes
+gey 2701 13
+gdf 2702 13
+gdx 2703 13
+gcg 2704 13
+gcw 2705 13
+gbh 2706 13
+gbv 2707 13
+gtb 2708 13
+guc 2709 13
+gua 2710 13
+gvd 2711 13
+yes
+gvz 2712 13
+gwe 2713 13
+yes
+gwy 2714 13
+gxf 2715 13
+gxx 2716 13
+gyg 2717 13
+gyw 2718 13
+yes
+gzh 2719 13
+yes
+gzv 2720 13
+yes
+gai 2721 13
+yes
+gau 2722 13
+fib 2723 13
+fhc 2724 13
+fha 2725 13
+fgd 2726 13
+yes
+fgz 2727 13
+ffe 2728 13
+yes
+ffy 2729 13
+fef 2730 13
+fex 2731 13
+fdg 2732 13
+fdw 2733 13
+fch 2734 13
+fcv 2735 13
+fbi 2736 13
+fbu 2737 13
+fsb 2738 13
+ftc 2739 13
+fta 2740 13
+fud 2741 13
+yes
+fuz 2742 13
+fve 2743 13
+yes
+fvy 2744 13
+fwf 2745 13
+fwx 2746 13
+fxg 2747 13
+fxw 2748 13
+fyh 2749 13
+fyv 2750 13
+yes
+fzi 2751 13
+yes
+fzu 2752 13
+yes
+faj 2753 13
+yes
+fat 2754 13
+ejb 2755 13
+eic 2756 13
+eia 2757 13
+ehd 2758 13
+yes
+ehz 2759 13
+ege 2760 13
+yes
+egy 2761 13
+eff 2762 13
+efx 2763 13
+eeg 2764 13
+eew 2765 13
+edh 2766 13
+edv 2767 13
+eci 2768 13
+ecu 2769 13
+ebj 2770 13
+ebt 2771 13
+erb 2772 13
+esc 2773 13
+esa 2774 13
+etd 2775 13
+yes
+etz 2776 13
+eue 2777 13
+yes
+euy 2778 13
+evf 2779 13
+evx 2780 13
+ewg 2781 13
+eww 2782 13
+exh 2783 13
+exv 2784 13
+eyi 2785 13
+eyu 2786 13
+yes
+ezj 2787 13
+yes
+ezt 2788 13
+yes
+eak 2789 13
+yes
+eas 2790 13
+dkb 2791 13
+djc 2792 13
+dja 2793 13
+did 2794 13
+yes
+diz 2795 13
+dhe 2796 13
+yes
+dhy 2797 13
+dgf 2798 13
+dgx 2799 13
+dfg 2800 13
+dfw 2801 13
+deh 2802 13
+dev 2803 13
+ddi 2804 13
+ddu 2805 13
+dcj 2806 13
+dct 2807 13
+dbk 2808 13
+dbs 2809 13
+dqb 2810 13
+drc 2811 13
+dra 2812 13
+dsd 2813 13
+yes
+dsz 2814 13
+dte 2815 13
+yes
+dty 2816 13
+duf 2817 13
+dux 2818 13
+dvg 2819 13
+dvw 2820 13
+dwh 2821 13
+dwv 2822 13
+dxi 2823 13
+dxu 2824 13
+dyj 2825 13
+dyt 2826 13
+yes
+dzk 2827 13
+yes
+dzs 2828 13
+yes
+dal 2829 13
+yes
+dar 2830 13
+clb 2831 13
+ckc 2832 13
+cka 2833 13
+cjd 2834 13
+yes
+cjz 2835 13
+cie 2836 13
+yes
+ciy 2837 13
+chf 2838 13
+chx 2839 13
+cgg 2840 13
+cgw 2841 13
+cfh 2842 13
+cfv 2843 13
+cei 2844 13
+ceu 2845 13
+cdj 2846 13
+cdt 2847 13
+cck 2848 13
+ccs 2849 13
+cbl 2850 13
+cbr 2851 13
+cpb 2852 13
+cqc 2853 13
+cqa 2854 13
+crd 2855 13
+yes
+crz 2856 13
+cse 2857 13
+yes
+csy 2858 13
+ctf 2859 13
+ctx 2860 13
+cug 2861 13
+cuw 2862 13
+cvh 2863 13
+cvv 2864 13
+cwi 2865 13
+cwu 2866 13
+cxj 2867 13
+cxt 2868 13
+cyk 2869 13
+cys 2870 13
+yes
+czl 2871 13
+yes
+czr 2872 13
+yes
+cam 2873 13
+yes
+caq 2874 13
+bmb 2875 13
+blc 2876 13
+bla 2877 13
+bkd 2878 13
+yes
+bkz 2879 13
+bje 2880 13
+yes
+bjy 2881 13
+bif 2882 13
+bix 2883 13
+bhg 2884 13
+bhw 2885 13
+bgh 2886 13
+bgv 2887 13
+bfi 2888 13
+bfu 2889 13
+bej 2890 13
+bet 2891 13
+bdk 2892 13
+bds 2893 13
+bcl 2894 13
+bcr 2895 13
+bbm 2896 13
+bbq 2897 13
+bob 2898 13
+bpc 2899 13
+bpa 2900 13
+bqd 2901 13
+yes
+bqz 2902 13
+bre 2903 13
+yes
+bry 2904 13
+bsf 2905 13
+bsx 2906 13
+btg 2907 13
+btw 2908 13
+buh 2909 13
+buv 2910 13
+bvi 2911 13
+bvu 2912 13
+bwj 2913 13
+bwt 2914 13
+bxk 2915 13
+bxs 2916 13
+byl 2917 13
+byr 2918 13
+yes
+bzm 2919 13
+yes
+yes
+zzs 2920 13
+yes
+yes
+azr 2921 13
+yes
+bzq 2922 13
+yes
+ban 2923 13
+yes
+yes
+zar 2924 13
+yes
+yes
+aaq 2925 13
+yes
+bap 2926 13
+obb 2927 13
+yes
+ozb 2928 13
+oac 2929 13
+oaa 2930 13
+pcb 2931 13
+pbc 2932 13
+pba 2933 13
+yes
+pyb 2934 13
+pzc 2935 13
+pza 2936 13
+yes
+pad 2937 13
+yes
+yes
+paz 2938 13
+qdb 2939 13
+qcc 2940 13
+qca 2941 13
+qbd 2942 13
+yes
+qbz 2943 13
+qxb 2944 13
+qyc 2945 13
+qya 2946 13
+yes
+qzd 2947 13
+yes
+yes
+qzz 2948 13
+yes
+qae 2949 13
+yes
+yes
+qay 2950 13
+reb 2951 13
+rdc 2952 13
+rda 2953 13
+rcd 2954 13
+yes
+rcz 2955 13
+rbe 2956 13
+yes
+rby 2957 13
+rwb 2958 13
+rxc 2959 13
+rxa 2960 13
+ryd 2961 13
+yes
+ryz 2962 13
+yes
+rze 2963 13
+yes
+yes
+rzy 2964 13
+yes
+raf 2965 13
+yes
+rax 2966 13
+sfb 2967 13
+sec 2968 13
+sea 2969 13
+sdd 2970 13
+yes
+sdz 2971 13
+sce 2972 13
+yes
+scy 2973 13
+sbf 2974 13
+sbx 2975 13
+svb 2976 13
+swc 2977 13
+swa 2978 13
+sxd 2979 13
+yes
+sxz 2980 13
+sye 2981 13
+yes
+syy 2982 13
+yes
+szf 2983 13
+yes
+szx 2984 13
+yes
+sag 2985 13
+yes
+saw 2986 13
+tgb 2987 13
+tfc 2988 13
+tfa 2989 13
+ted 2990 13
+yes
+tez 2991 13
+tde 2992 13
+yes
+tdy 2993 13
+tcf 2994 13
+tcx 2995 13
+tbg 2996 13
+tbw 2997 13
+tub 2998 13
+tvc 2999 13
+tva 3000 13
+twd 3001 13
+yes
+twz 3002 13
+txe 3003 13
+yes
+txy 3004 13
+tyf 3005 13
+tyx 3006 13
+yes
+tzg 3007 13
+yes
+tzw 3008 13
+yes
+tah 3009 13
+yes
+tav 3010 13
+uhb 3011 13
+ugc 3012 13
+uga 3013 13
+ufd 3014 13
+yes
+ufz 3015 13
+uee 3016 13
+yes
+uey 3017 13
+udf 3018 13
+udx 3019 13
+ucg 3020 13
+ucw 3021 13
+ubh 3022 13
+ubv 3023 13
+utb 3024 13
+uuc 3025 13
+uua 3026 13
+uvd 3027 13
+yes
+uvz 3028 13
+uwe 3029 13
+yes
+uwy 3030 13
+uxf 3031 13
+uxx 3032 13
+uyg 3033 13
+uyw 3034 13
+yes
+uzh 3035 13
+yes
+uzv 3036 13
+yes
+uai 3037 13
+yes
+uau 3038 13
+vib 3039 13
+vhc 3040 13
+vha 3041 13
+vgd 3042 13
+yes
+vgz 3043 13
+vfe 3044 13
+yes
+vfy 3045 13
+vef 3046 13
+vex 3047 13
+vdg 3048 13
+vdw 3049 13
+vch 3050 13
+vcv 3051 13
+vbi 3052 13
+vbu 3053 13
+vsb 3054 13
+vtc 3055 13
+vta 3056 13
+vud 3057 13
+yes
+vuz 3058 13
+vve 3059 13
+yes
+vvy 3060 13
+vwf 3061 13
+vwx 3062 13
+vxg 3063 13
+vxw 3064 13
+vyh 3065 13
+vyv 3066 13
+yes
+vzi 3067 13
+yes
+vzu 3068 13
+yes
+vaj 3069 13
+yes
+vat 3070 13
+wjb 3071 13
+wic 3072 13
+wia 3073 13
+whd 3074 13
+yes
+whz 3075 13
+wge 3076 13
+yes
+wgy 3077 13
+wff 3078 13
+wfx 3079 13
+weg 3080 13
+wew 3081 13
+wdh 3082 13
+wdv 3083 13
+wci 3084 13
+wcu 3085 13
+wbj 3086 13
+wbt 3087 13
+wrb 3088 13
+wsc 3089 13
+wsa 3090 13
+wtd 3091 13
+yes
+wtz 3092 13
+wue 3093 13
+yes
+wuy 3094 13
+wvf 3095 13
+wvx 3096 13
+wwg 3097 13
+www 3098 13
+wxh 3099 13
+wxv 3100 13
+wyi 3101 13
+wyu 3102 13
+yes
+wzj 3103 13
+yes
+wzt 3104 13
+yes
+wak 3105 13
+yes
+was 3106 13
+xkb 3107 13
+xjc 3108 13
+xja 3109 13
+xid 3110 13
+yes
+xiz 3111 13
+xhe 3112 13
+yes
+xhy 3113 13
+xgf 3114 13
+xgx 3115 13
+xfg 3116 13
+xfw 3117 13
+xeh 3118 13
+xev 3119 13
+xdi 3120 13
+xdu 3121 13
+xcj 3122 13
+xct 3123 13
+xbk 3124 13
+xbs 3125 13
+xqb 3126 13
+xrc 3127 13
+xra 3128 13
+xsd 3129 13
+yes
+xsz 3130 13
+xte 3131 13
+yes
+xty 3132 13
+xuf 3133 13
+xux 3134 13
+xvg 3135 13
+xvw 3136 13
+xwh 3137 13
+xwv 3138 13
+xxi 3139 13
+xxu 3140 13
+xyj 3141 13
+xyt 3142 13
+yes
+xzk 3143 13
+yes
+xzs 3144 13
+yes
+xal 3145 13
+yes
+xar 3146 13
+ylb 3147 13
+ykc 3148 13
+yka 3149 13
+yjd 3150 13
+yes
+yjz 3151 13
+yie 3152 13
+yes
+yiy 3153 13
+yhf 3154 13
+yhx 3155 13
+ygg 3156 13
+ygw 3157 13
+yfh 3158 13
+yfv 3159 13
+yei 3160 13
+yeu 3161 13
+ydj 3162 13
+ydt 3163 13
+yck 3164 13
+ycs 3165 13
+ybl 3166 13
+ybr 3167 13
+ypb 3168 13
+yqc 3169 13
+yqa 3170 13
+yrd 3171 13
+yes
+yrz 3172 13
+yse 3173 13
+yes
+ysy 3174 13
+ytf 3175 13
+ytx 3176 13
+yug 3177 13
+yuw 3178 13
+yvh 3179 13
+yvv 3180 13
+ywi 3181 13
+ywu 3182 13
+yxj 3183 13
+yxt 3184 13
+yyk 3185 13
+yys 3186 13
+yes
+yzl 3187 13
+yes
+yzr 3188 13
+yes
+yam 3189 13
+yes
+yaq 3190 13
+yes
+zmb 3191 13
+zlc 3192 13
+zla 3193 13
+yes
+zkd 3194 13
+yes
+yes
+zkz 3195 13
+yes
+zje 3196 13
+yes
+yes
+zjy 3197 13
+yes
+zif 3198 13
+yes
+zix 3199 13
+yes
+zhg 3200 13
+yes
+zhw 3201 13
+yes
+zgh 3202 13
+yes
+zgv 3203 13
+yes
+zfi 3204 13
+yes
+zfu 3205 13
+yes
+zej 3206 13
+yes
+zet 3207 13
+yes
+zdk 3208 13
+yes
+zds 3209 13
+yes
+zcl 3210 13
+yes
+zcr 3211 13
+yes
+zbm 3212 13
+yes
+zbq 3213 13
+yes
+zob 3214 13
+zpc 3215 13
+zpa 3216 13
+yes
+zqd 3217 13
+yes
+yes
+zqz 3218 13
+yes
+zre 3219 13
+yes
+yes
+zry 3220 13
+yes
+zsf 3221 13
+yes
+zsx 3222 13
+yes
+ztg 3223 13
+yes
+ztw 3224 13
+yes
+zuh 3225 13
+yes
+zuv 3226 13
+yes
+zvi 3227 13
+yes
+zvu 3228 13
+yes
+zwj 3229 13
+yes
+zwt 3230 13
+yes
+zxk 3231 13
+yes
+zxs 3232 13
+yes
+zyl 3233 13
+yes
+zyr 3234 13
+yes
+yes
+zzm 3235 13
+yes
+yes
+zan 3236 13
+yes
+anb 3237 13
+amc 3238 13
+ama 3239 13
+yes
+ald 3240 13
+yes
+yes
+alz 3241 13
+yes
+ake 3242 13
+yes
+yes
+aky 3243 13
+yes
+ajf 3244 13
+yes
+ajx 3245 13
+yes
+aig 3246 13
+yes
+aiw 3247 13
+yes
+ahh 3248 13
+yes
+ahv 3249 13
+yes
+agi 3250 13
+yes
+agu 3251 13
+yes
+afj 3252 13
+yes
+aft 3253 13
+yes
+aek 3254 13
+yes
+aes 3255 13
+yes
+adl 3256 13
+yes
+adr 3257 13
+yes
+acm 3258 13
+yes
+acq 3259 13
+yes
+abn 3260 13
+yes
+abp 3261 13
+yes
+aoc 3262 13
+aoa 3263 13
+yes
+apd 3264 13
+yes
+yes
+apz 3265 13
+yes
+aqe 3266 13
+yes
+yes
+aqy 3267 13
+yes
+arf 3268 13
+yes
+arx 3269 13
+yes
+asg 3270 13
+yes
+asw 3271 13
+yes
+ath 3272 13
+yes
+atv 3273 13
+yes
+aui 3274 13
+yes
+auu 3275 13
+yes
+avj 3276 13
+yes
+avt 3277 13
+yes
+awk 3278 13
+yes
+aws 3279 13
+yes
+axl 3280 13
+yes
+axr 3281 13
+yes
+aym 3282 13
+yes
+ayq 3283 13
+yes
+yes
+azn 3284 13
+yes
+yes
+aao 3285 13
+nbb 3286 14
+yes
+nzb 3287 14
+nac 3288 14
+naa 3289 14
+mcb 3290 14
+mbc 3291 14
+mba 3292 14
+yes
+myb 3293 14
+mzc 3294 14
+mza 3295 14
+yes
+mad 3296 14
+yes
+yes
+maz 3297 14
+ldb 3298 14
+lcc 3299 14
+lca 3300 14
+lbd 3301 14
+yes
+lbz 3302 14
+lxb 3303 14
+lyc 3304 14
+lya 3305 14
+yes
+lzd 3306 14
+yes
+yes
+lzz 3307 14
+yes
+lae 3308 14
+yes
+yes
+lay 3309 14
+keb 3310 14
+kdc 3311 14
+kda 3312 14
+kcd 3313 14
+yes
+kcz 3314 14
+kbe 3315 14
+yes
+kby 3316 14
+kwb 3317 14
+kxc 3318 14
+kxa 3319 14
+kyd 3320 14
+yes
+kyz 3321 14
+yes
+kze 3322 14
+yes
+yes
+kzy 3323 14
+yes
+kaf 3324 14
+yes
+kax 3325 14
+jfb 3326 14
+jec 3327 14
+jea 3328 14
+jdd 3329 14
+yes
+jdz 3330 14
+jce 3331 14
+yes
+jcy 3332 14
+jbf 3333 14
+jbx 3334 14
+jvb 3335 14
+jwc 3336 14
+jwa 3337 14
+jxd 3338 14
+yes
+jxz 3339 14
+jye 3340 14
+yes
+jyy 3341 14
+yes
+jzf 3342 14
+yes
+jzx 3343 14
+yes
+jag 3344 14
+yes
+jaw 3345 14
+igb 3346 14
+ifc 3347 14
+ifa 3348 14
+ied 3349 14
+yes
+iez 3350 14
+ide 3351 14
+yes
+idy 3352 14
+icf 3353 14
+icx 3354 14
+ibg 3355 14
+ibw 3356 14
+iub 3357 14
+ivc 3358 14
+iva 3359 14
+iwd 3360 14
+yes
+iwz 3361 14
+ixe 3362 14
+yes
+ixy 3363 14
+iyf 3364 14
+iyx 3365 14
+yes
+izg 3366 14
+yes
+izw 3367 14
+yes
+iah 3368 14
+yes
+iav 3369 14
+hhb 3370 14
+hgc 3371 14
+hga 3372 14
+hfd 3373 14
+yes
+hfz 3374 14
+hee 3375 14
+yes
+hey 3376 14
+hdf 3377 14
+hdx 3378 14
+hcg 3379 14
+hcw 3380 14
+hbh 3381 14
+hbv 3382 14
+htb 3383 14
+huc 3384 14
+hua 3385 14
+hvd 3386 14
+yes
+hvz 3387 14
+hwe 3388 14
+yes
+hwy 3389 14
+hxf 3390 14
+hxx 3391 14
+hyg 3392 14
+hyw 3393 14
+yes
+hzh 3394 14
+yes
+hzv 3395 14
+yes
+hai 3396 14
+yes
+hau 3397 14
+gib 3398 14
+ghc 3399 14
+gha 3400 14
+ggd 3401 14
+yes
+ggz 3402 14
+gfe 3403 14
+yes
+gfy 3404 14
+gef 3405 14
+gex 3406 14
+gdg 3407 14
+gdw 3408 14
+gch 3409 14
+gcv 3410 14
+gbi 3411 14
+gbu 3412 14
+gsb 3413 14
+gtc 3414 14
+gta 3415 14
+gud 3416 14
+yes
+guz 3417 14
+gve 3418 14
+yes
+gvy 3419 14
+gwf 3420 14
+gwx 3421 14
+gxg 3422 14
+gxw 3423 14
+gyh 3424 14
+gyv 3425 14
+yes
+gzi 3426 14
+yes
+gzu 3427 14
+yes
+gaj 3428 14
+yes
+gat 3429 14
+fjb 3430 14
+fic 3431 14
+fia 3432 14
+fhd 3433 14
+yes
+fhz 3434 14
+fge 3435 14
+yes
+fgy 3436 14
+fff 3437 14
+ffx 3438 14
+feg 3439 14
+few 3440 14
+fdh 3441 14
+fdv 3442 14
+fci 3443 14
+fcu 3444 14
+fbj 3445 14
+fbt 3446 14
+frb 3447 14
+fsc 3448 14
+fsa 3449 14
+ftd 3450 14
+yes
+ftz 3451 14
+fue 3452 14
+yes
+fuy 3453 14
+fvf 3454 14
+fvx 3455 14
+fwg 3456 14
+fww 3457 14
+fxh 3458 14
+fxv 3459 14
+fyi 3460 14
+fyu 3461 14
+yes
+fzj 3462 14
+yes
+fzt 3463 14
+yes
+fak 3464 14
+yes
+fas 3465 14
+ekb 3466 14
+ejc 3467 14
+eja 3468 14
+eid 3469 14
+yes
+eiz 3470 14
+ehe 3471 14
+yes
+ehy 3472 14
+egf 3473 14
+egx 3474 14
+efg 3475 14
+efw 3476 14
+eeh 3477 14
+eev 3478 14
+edi 3479 14
+edu 3480 14
+ecj 3481 14
+ect 3482 14
+ebk 3483 14
+ebs 3484 14
+eqb 3485 14
+erc 3486 14
+era 3487 14
+esd 3488 14
+yes
+esz 3489 14
+ete 3490 14
+yes
+ety 3491 14
+euf 3492 14
+eux 3493 14
+evg 3494 14
+evw 3495 14
+ewh 3496 14
+ewv 3497 14
+exi 3498 14
+exu 3499 14
+eyj 3500 14
+eyt 3501 14
+yes
+ezk 3502 14
+yes
+ezs 3503 14
+yes
+eal 3504 14
+yes
+ear 3505 14
+dlb 3506 14
+dkc 3507 14
+dka 3508 14
+djd 3509 14
+yes
+djz 3510 14
+die 3511 14
+yes
+diy 3512 14
+dhf 3513 14
+dhx 3514 14
+dgg 3515 14
+dgw 3516 14
+dfh 3517 14
+dfv 3518 14
+dei 3519 14
+deu 3520 14
+ddj 3521 14
+ddt 3522 14
+dck 3523 14
+dcs 3524 14
+dbl 3525 14
+dbr 3526 14
+dpb 3527 14
+dqc 3528 14
+dqa 3529 14
+drd 3530 14
+yes
+drz 3531 14
+dse 3532 14
+yes
+dsy 3533 14
+dtf 3534 14
+dtx 3535 14
+dug 3536 14
+duw 3537 14
+dvh 3538 14
+dvv 3539 14
+dwi 3540 14
+dwu 3541 14
+dxj 3542 14
+dxt 3543 14
+dyk 3544 14
+dys 3545 14
+yes
+dzl 3546 14
+yes
+dzr 3547 14
+yes
+dam 3548 14
+yes
+daq 3549 14
+cmb 3550 14
+clc 3551 14
+cla 3552 14
+ckd 3553 14
+yes
+ckz 3554 14
+cje 3555 14
+yes
+cjy 3556 14
+cif 3557 14
+cix 3558 14
+chg 3559 14
+chw 3560 14
+cgh 3561 14
+cgv 3562 14
+cfi 3563 14
+cfu 3564 14
+cej 3565 14
+cet 3566 14
+cdk 3567 14
+cds 3568 14
+ccl 3569 14
+ccr 3570 14
+cbm 3571 14
+cbq 3572 14
+cob 3573 14
+cpc 3574 14
+cpa 3575 14
+cqd 3576 14
+yes
+cqz 3577 14
+cre 3578 14
+yes
+cry 3579 14
+csf 3580 14
+csx 3581 14
+ctg 3582 14
+ctw 3583 14
+cuh 3584 14
+cuv 3585 14
+cvi 3586 14
+cvu 3587 14
+cwj 3588 14
+cwt 3589 14
+cxk 3590 14
+cxs 3591 14
+cyl 3592 14
+cyr 3593 14
+yes
+czm 3594 14
+yes
+czq 3595 14
+yes
+can 3596 14
+yes
+cap 3597 14
+bnb 3598 14
+bmc 3599 14
+bma 3600 14
+bld 3601 14
+yes
+blz 3602 14
+bke 3603 14
+yes
+bky 3604 14
+bjf 3605 14
+bjx 3606 14
+big 3607 14
+biw 3608 14
+bhh 3609 14
+bhv 3610 14
+bgi 3611 14
+bgu 3612 14
+bfj 3613 14
+bft 3614 14
+bek 3615 14
+bes 3616 14
+bdl 3617 14
+bdr 3618 14
+bcm 3619 14
+bcq 3620 14
+bbn 3621 14
+bbp 3622 14
+boc 3623 14
+boa 3624 14
+bpd 3625 14
+yes
+bpz 3626 14
+bqe 3627 14
+yes
+bqy 3628 14
+brf 3629 14
+brx 3630 14
+bsg 3631 14
+bsw 3632 14
+bth 3633 14
+btv 3634 14
+bui 3635 14
+buu 3636 14
+bvj 3637 14
+bvt 3638 14
+bwk 3639 14
+bws 3640 14
+bxl 3641 14
+bxr 3642 14
+bym 3643 14
+byq 3644 14
+yes
+bzn 3645 14
+yes
+yes
+zzr 3646 14
+yes
+yes
+azq 3647 14
+yes
+bzp 3648 14
+yes
+bao 3649 14
+yes
+yes
+zaq 3650 14
+yes
+yes
+aap 3651 14
+yes
+ocb 3652 14
+obc 3653 14
+oba 3654 14
+yes
+oyb 3655 14
+ozc 3656 14
+oza 3657 14
+yes
+oad 3658 14
+yes
+yes
+oaz 3659 14
+pdb 3660 14
+pcc 3661 14
+pca 3662 14
+pbd 3663 14
+yes
+pbz 3664 14
+pxb 3665 14
+pyc 3666 14
+pya 3667 14
+yes
+pzd 3668 14
+yes
+yes
+pzz 3669 14
+yes
+pae 3670 14
+yes
+yes
+pay 3671 14
+qeb 3672 14
+qdc 3673 14
+qda 3674 14
+qcd 3675 14
+yes
+qcz 3676 14
+qbe 3677 14
+yes
+qby 3678 14
+qwb 3679 14
+qxc 3680 14
+qxa 3681 14
+qyd 3682 14
+yes
+qyz 3683 14
+yes
+qze 3684 14
+yes
+yes
+qzy 3685 14
+yes
+qaf 3686 14
+yes
+qax 3687 14
+rfb 3688 14
+rec 3689 14
+rea 3690 14
+rdd 3691 14
+yes
+rdz 3692 14
+rce 3693 14
+yes
+rcy 3694 14
+rbf 3695 14
+rbx 3696 14
+rvb 3697 14
+rwc 3698 14
+rwa 3699 14
+rxd 3700 14
+yes
+rxz 3701 14
+rye 3702 14
+yes
+ryy 3703 14
+yes
+rzf 3704 14
+yes
+rzx 3705 14
+yes
+rag 3706 14
+yes
+raw 3707 14
+sgb 3708 14
+sfc 3709 14
+sfa 3710 14
+sed 3711 14
+yes
+sez 3712 14
+sde 3713 14
+yes
+sdy 3714 14
+scf 3715 14
+scx 3716 14
+sbg 3717 14
+sbw 3718 14
+sub 3719 14
+svc 3720 14
+sva 3721 14
+swd 3722 14
+yes
+swz 3723 14
+sxe 3724 14
+yes
+sxy 3725 14
+syf 3726 14
+syx 3727 14
+yes
+szg 3728 14
+yes
+szw 3729 14
+yes
+sah 3730 14
+yes
+sav 3731 14
+thb 3732 14
+tgc 3733 14
+tga 3734 14
+tfd 3735 14
+yes
+tfz 3736 14
+tee 3737 14
+yes
+tey 3738 14
+tdf 3739 14
+tdx 3740 14
+tcg 3741 14
+tcw 3742 14
+tbh 3743 14
+tbv 3744 14
+ttb 3745 14
+tuc 3746 14
+tua 3747 14
+tvd 3748 14
+yes
+tvz 3749 14
+twe 3750 14
+yes
+twy 3751 14
+txf 3752 14
+txx 3753 14
+tyg 3754 14
+tyw 3755 14
+yes
+tzh 3756 14
+yes
+tzv 3757 14
+yes
+tai 3758 14
+yes
+tau 3759 14
+uib 3760 14
+uhc 3761 14
+uha 3762 14
+ugd 3763 14
+yes
+ugz 3764 14
+ufe 3765 14
+yes
+ufy 3766 14
+uef 3767 14
+uex 3768 14
+udg 3769 14
+udw 3770 14
+uch 3771 14
+ucv 3772 14
+ubi 3773 14
+ubu 3774 14
+usb 3775 14
+utc 3776 14
+uta 3777 14
+uud 3778 14
+yes
+uuz 3779 14
+uve 3780 14
+yes
+uvy 3781 14
+uwf 3782 14
+uwx 3783 14
+uxg 3784 14
+uxw 3785 14
+uyh 3786 14
+uyv 3787 14
+yes
+uzi 3788 14
+yes
+uzu 3789 14
+yes
+uaj 3790 14
+yes
+uat 3791 14
+vjb 3792 14
+vic 3793 14
+via 3794 14
+vhd 3795 14
+yes
+vhz 3796 14
+vge 3797 14
+yes
+vgy 3798 14
+vff 3799 14
+vfx 3800 14
+veg 3801 14
+vew 3802 14
+vdh 3803 14
+vdv 3804 14
+vci 3805 14
+vcu 3806 14
+vbj 3807 14
+vbt 3808 14
+vrb 3809 14
+vsc 3810 14
+vsa 3811 14
+vtd 3812 14
+yes
+vtz 3813 14
+vue 3814 14
+yes
+vuy 3815 14
+vvf 3816 14
+vvx 3817 14
+vwg 3818 14
+vww 3819 14
+vxh 3820 14
+vxv 3821 14
+vyi 3822 14
+vyu 3823 14
+yes
+vzj 3824 14
+yes
+vzt 3825 14
+yes
+vak 3826 14
+yes
+vas 3827 14
+wkb 3828 14
+wjc 3829 14
+wja 3830 14
+wid 3831 14
+yes
+wiz 3832 14
+whe 3833 14
+yes
+why 3834 14
+wgf 3835 14
+wgx 3836 14
+wfg 3837 14
+wfw 3838 14
+weh 3839 14
+wev 3840 14
+wdi 3841 14
+wdu 3842 14
+wcj 3843 14
+wct 3844 14
+wbk 3845 14
+wbs 3846 14
+wqb 3847 14
+wrc 3848 14
+wra 3849 14
+wsd 3850 14
+yes
+wsz 3851 14
+wte 3852 14
+yes
+wty 3853 14
+wuf 3854 14
+wux 3855 14
+wvg 3856 14
+wvw 3857 14
+wwh 3858 14
+wwv 3859 14
+wxi 3860 14
+wxu 3861 14
+wyj 3862 14
+wyt 3863 14
+yes
+wzk 3864 14
+yes
+wzs 3865 14
+yes
+wal 3866 14
+yes
+war 3867 14
+xlb 3868 14
+xkc 3869 14
+xka 3870 14
+xjd 3871 14
+yes
+xjz 3872 14
+xie 3873 14
+yes
+xiy 3874 14
+xhf 3875 14
+xhx 3876 14
+xgg 3877 14
+xgw 3878 14
+xfh 3879 14
+xfv 3880 14
+xei 3881 14
+xeu 3882 14
+xdj 3883 14
+xdt 3884 14
+xck 3885 14
+xcs 3886 14
+xbl 3887 14
+xbr 3888 14
+xpb 3889 14
+xqc 3890 14
+xqa 3891 14
+xrd 3892 14
+yes
+xrz 3893 14
+xse 3894 14
+yes
+xsy 3895 14
+xtf 3896 14
+xtx 3897 14
+xug 3898 14
+xuw 3899 14
+xvh 3900 14
+xvv 3901 14
+xwi 3902 14
+xwu 3903 14
+xxj 3904 14
+xxt 3905 14
+xyk 3906 14
+xys 3907 14
+yes
+xzl 3908 14
+yes
+xzr 3909 14
+yes
+xam 3910 14
+yes
+xaq 3911 14
+ymb 3912 14
+ylc 3913 14
+yla 3914 14
+ykd 3915 14
+yes
+ykz 3916 14
+yje 3917 14
+yes
+yjy 3918 14
+yif 3919 14
+yix 3920 14
+yhg 3921 14
+yhw 3922 14
+ygh 3923 14
+ygv 3924 14
+yfi 3925 14
+yfu 3926 14
+yej 3927 14
+yet 3928 14
+ydk 3929 14
+yds 3930 14
+ycl 3931 14
+ycr 3932 14
+ybm 3933 14
+ybq 3934 14
+yob 3935 14
+ypc 3936 14
+ypa 3937 14
+yqd 3938 14
+yes
+yqz 3939 14
+yre 3940 14
+yes
+yry 3941 14
+ysf 3942 14
+ysx 3943 14
+ytg 3944 14
+ytw 3945 14
+yuh 3946 14
+yuv 3947 14
+yvi 3948 14
+yvu 3949 14
+ywj 3950 14
+ywt 3951 14
+yxk 3952 14
+yxs 3953 14
+yyl 3954 14
+yyr 3955 14
+yes
+yzm 3956 14
+yes
+yzq 3957 14
+yes
+yan 3958 14
+yes
+yap 3959 14
+yes
+znb 3960 14
+zmc 3961 14
+zma 3962 14
+yes
+zld 3963 14
+yes
+yes
+zlz 3964 14
+yes
+zke 3965 14
+yes
+yes
+zky 3966 14
+yes
+zjf 3967 14
+yes
+zjx 3968 14
+yes
+zig 3969 14
+yes
+ziw 3970 14
+yes
+zhh 3971 14
+yes
+zhv 3972 14
+yes
+zgi 3973 14
+yes
+zgu 3974 14
+yes
+zfj 3975 14
+yes
+zft 3976 14
+yes
+zek 3977 14
+yes
+zes 3978 14
+yes
+zdl 3979 14
+yes
+zdr 3980 14
+yes
+zcm 3981 14
+yes
+zcq 3982 14
+yes
+zbn 3983 14
+yes
+zbp 3984 14
+yes
+zoc 3985 14
+zoa 3986 14
+yes
+zpd 3987 14
+yes
+yes
+zpz 3988 14
+yes
+zqe 3989 14
+yes
+yes
+zqy 3990 14
+yes
+zrf 3991 14
+yes
+zrx 3992 14
+yes
+zsg 3993 14
+yes
+zsw 3994 14
+yes
+zth 3995 14
+yes
+ztv 3996 14
+yes
+zui 3997 14
+yes
+zuu 3998 14
+yes
+zvj 3999 14
+yes
+zvt 4000 14
+yes
+zwk 4001 14
+yes
+zws 4002 14
+yes
+zxl 4003 14
+yes
+zxr 4004 14
+yes
+zym 4005 14
+yes
+zyq 4006 14
+yes
+yes
+zzn 4007 14
+yes
+yes
+zao 4008 14
+yes
+anc 4009 14
+ana 4010 14
+yes
+amd 4011 14
+yes
+yes
+amz 4012 14
+yes
+ale 4013 14
+yes
+yes
+aly 4014 14
+yes
+akf 4015 14
+yes
+akx 4016 14
+yes
+ajg 4017 14
+yes
+ajw 4018 14
+yes
+aih 4019 14
+yes
+aiv 4020 14
+yes
+ahi 4021 14
+yes
+ahu 4022 14
+yes
+agj 4023 14
+yes
+agt 4024 14
+yes
+afk 4025 14
+yes
+afs 4026 14
+yes
+ael 4027 14
+yes
+aer 4028 14
+yes
+adm 4029 14
+yes
+adq 4030 14
+yes
+acn 4031 14
+yes
+acp 4032 14
+yes
+abo 4033 14
+yes
+yes
+aod 4034 14
+yes
+yes
+aoz 4035 14
+yes
+ape 4036 14
+yes
+yes
+apy 4037 14
+yes
+aqf 4038 14
+yes
+aqx 4039 14
+yes
+arg 4040 14
+yes
+arw 4041 14
+yes
+ash 4042 14
+yes
+asv 4043 14
+yes
+ati 4044 14
+yes
+atu 4045 14
+yes
+auj 4046 14
+yes
+aut 4047 14
+yes
+avk 4048 14
+yes
+avs 4049 14
+yes
+awl 4050 14
+yes
+awr 4051 14
+yes
+axm 4052 14
+yes
+axq 4053 14
+yes
+ayn 4054 14
+yes
+ayp 4055 14
+yes
+yes
+azo 4056 14
+yes
+yes
+ncb 4057 15
+nbc 4058 15
+nba 4059 15
+yes
+nyb 4060 15
+nzc 4061 15
+nza 4062 15
+yes
+nad 4063 15
+yes
+yes
+naz 4064 15
+mdb 4065 15
+mcc 4066 15
+mca 4067 15
+mbd 4068 15
+yes
+mbz 4069 15
+mxb 4070 15
+myc 4071 15
+mya 4072 15
+yes
+mzd 4073 15
+yes
+yes
+mzz 4074 15
+yes
+mae 4075 15
+yes
+yes
+may 4076 15
+leb 4077 15
+ldc 4078 15
+lda 4079 15
+lcd 4080 15
+yes
+lcz 4081 15
+lbe 4082 15
+yes
+lby 4083 15
+lwb 4084 15
+lxc 4085 15
+lxa 4086 15
+lyd 4087 15
+yes
+lyz 4088 15
+yes
+lze 4089 15
+yes
+yes
+lzy 4090 15
+yes
+laf 4091 15
+yes
+lax 4092 15
+kfb 4093 15
+kec 4094 15
+kea 4095 15
+kdd 4096 15
+yes
+kdz 4097 15
+kce 4098 15
+yes
+kcy 4099 15
+kbf 4100 15
+kbx 4101 15
+kvb 4102 15
+kwc 4103 15
+kwa 4104 15
+kxd 4105 15
+yes
+kxz 4106 15
+kye 4107 15
+yes
+kyy 4108 15
+yes
+kzf 4109 15
+yes
+kzx 4110 15
+yes
+kag 4111 15
+yes
+kaw 4112 15
+jgb 4113 15
+jfc 4114 15
+jfa 4115 15
+jed 4116 15
+yes
+jez 4117 15
+jde 4118 15
+yes
+jdy 4119 15
+jcf 4120 15
+jcx 4121 15
+jbg 4122 15
+jbw 4123 15
+jub 4124 15
+jvc 4125 15
+jva 4126 15
+jwd 4127 15
+yes
+jwz 4128 15
+jxe 4129 15
+yes
+jxy 4130 15
+jyf 4131 15
+jyx 4132 15
+yes
+jzg 4133 15
+yes
+jzw 4134 15
+yes
+jah 4135 15
+yes
+jav 4136 15
+ihb 4137 15
+igc 4138 15
+iga 4139 15
+ifd 4140 15
+yes
+ifz 4141 15
+iee 4142 15
+yes
+iey 4143 15
+idf 4144 15
+idx 4145 15
+icg 4146 15
+icw 4147 15
+ibh 4148 15
+ibv 4149 15
+itb 4150 15
+iuc 4151 15
+iua 4152 15
+ivd 4153 15
+yes
+ivz 4154 15
+iwe 4155 15
+yes
+iwy 4156 15
+ixf 4157 15
+ixx 4158 15
+iyg 4159 15
+iyw 4160 15
+yes
+izh 4161 15
+yes
+izv 4162 15
+yes
+iai 4163 15
+yes
+iau 4164 15
+hib 4165 15
+hhc 4166 15
+hha 4167 15
+hgd 4168 15
+yes
+hgz 4169 15
+hfe 4170 15
+yes
+hfy 4171 15
+hef 4172 15
+hex 4173 15
+hdg 4174 15
+hdw 4175 15
+hch 4176 15
+hcv 4177 15
+hbi 4178 15
+hbu 4179 15
+hsb 4180 15
+htc 4181 15
+hta 4182 15
+hud 4183 15
+yes
+huz 4184 15
+hve 4185 15
+yes
+hvy 4186 15
+hwf 4187 15
+hwx 4188 15
+hxg 4189 15
+hxw 4190 15
+hyh 4191 15
+hyv 4192 15
+yes
+hzi 4193 15
+yes
+hzu 4194 15
+yes
+haj 4195 15
+yes
+hat 4196 15
+gjb 4197 15
+gic 4198 15
+gia 4199 15
+ghd 4200 15
+yes
+ghz 4201 15
+gge 4202 15
+yes
+ggy 4203 15
+gff 4204 15
+gfx 4205 15
+geg 4206 15
+gew 4207 15
+gdh 4208 15
+gdv 4209 15
+gci 4210 15
+gcu 4211 15
+gbj 4212 15
+gbt 4213 15
+grb 4214 15
+gsc 4215 15
+gsa 4216 15
+gtd 4217 15
+yes
+gtz 4218 15
+gue 4219 15
+yes
+guy 4220 15
+gvf 4221 15
+gvx 4222 15
+gwg 4223 15
+gww 4224 15
+gxh 4225 15
+gxv 4226 15
+gyi 4227 15
+gyu 4228 15
+yes
+gzj 4229 15
+yes
+gzt 4230 15
+yes
+gak 4231 15
+yes
+gas 4232 15
+fkb 4233 15
+fjc 4234 15
+fja 4235 15
+fid 4236 15
+yes
+fiz 4237 15
+fhe 4238 15
+yes
+fhy 4239 15
+fgf 4240 15
+fgx 4241 15
+ffg 4242 15
+ffw 4243 15
+feh 4244 15
+fev 4245 15
+fdi 4246 15
+fdu 4247 15
+fcj 4248 15
+fct 4249 15
+fbk 4250 15
+fbs 4251 15
+fqb 4252 15
+frc 4253 15
+fra 4254 15
+fsd 4255 15
+yes
+fsz 4256 15
+fte 4257 15
+yes
+fty 4258 15
+fuf 4259 15
+fux 4260 15
+fvg 4261 15
+fvw 4262 15
+fwh 4263 15
+fwv 4264 15
+fxi 4265 15
+fxu 4266 15
+fyj 4267 15
+fyt 4268 15
+yes
+fzk 4269 15
+yes
+fzs 4270 15
+yes
+fal 4271 15
+yes
+far 4272 15
+elb 4273 15
+ekc 4274 15
+eka 4275 15
+ejd 4276 15
+yes
+ejz 4277 15
+eie 4278 15
+yes
+eiy 4279 15
+ehf 4280 15
+ehx 4281 15
+egg 4282 15
+egw 4283 15
+efh 4284 15
+efv 4285 15
+eei 4286 15
+eeu 4287 15
+edj 4288 15
+edt 4289 15
+eck 4290 15
+ecs 4291 15
+ebl 4292 15
+ebr 4293 15
+epb 4294 15
+eqc 4295 15
+eqa 4296 15
+erd 4297 15
+yes
+erz 4298 15
+ese 4299 15
+yes
+esy 4300 15
+etf 4301 15
+etx 4302 15
+eug 4303 15
+euw 4304 15
+evh 4305 15
+evv 4306 15
+ewi 4307 15
+ewu 4308 15
+exj 4309 15
+ext 4310 15
+eyk 4311 15
+eys 4312 15
+yes
+ezl 4313 15
+yes
+ezr 4314 15
+yes
+eam 4315 15
+yes
+eaq 4316 15
+dmb 4317 15
+dlc 4318 15
+dla 4319 15
+dkd 4320 15
+yes
+dkz 4321 15
+dje 4322 15
+yes
+djy 4323 15
+dif 4324 15
+dix 4325 15
+dhg 4326 15
+dhw 4327 15
+dgh 4328 15
+dgv 4329 15
+dfi 4330 15
+dfu 4331 15
+dej 4332 15
+det 4333 15
+ddk 4334 15
+dds 4335 15
+dcl 4336 15
+dcr 4337 15
+dbm 4338 15
+dbq 4339 15
+dob 4340 15
+dpc 4341 15
+dpa 4342 15
+dqd 4343 15
+yes
+dqz 4344 15
+dre 4345 15
+yes
+dry 4346 15
+dsf 4347 15
+dsx 4348 15
+dtg 4349 15
+dtw 4350 15
+duh 4351 15
+duv 4352 15
+dvi 4353 15
+dvu 4354 15
+dwj 4355 15
+dwt 4356 15
+dxk 4357 15
+dxs 4358 15
+dyl 4359 15
+dyr 4360 15
+yes
+dzm 4361 15
+yes
+dzq 4362 15
+yes
+dan 4363 15
+yes
+dap 4364 15
+cnb 4365 15
+cmc 4366 15
+cma 4367 15
+cld 4368 15
+yes
+clz 4369 15
+cke 4370 15
+yes
+cky 4371 15
+cjf 4372 15
+cjx 4373 15
+cig 4374 15
+ciw 4375 15
+chh 4376 15
+chv 4377 15
+cgi 4378 15
+cgu 4379 15
+cfj 4380 15
+cft 4381 15
+cek 4382 15
+ces 4383 15
+cdl 4384 15
+cdr 4385 15
+ccm 4386 15
+ccq 4387 15
+cbn 4388 15
+cbp 4389 15
+coc 4390 15
+coa 4391 15
+cpd 4392 15
+yes
+cpz 4393 15
+cqe 4394 15
+yes
+cqy 4395 15
+crf 4396 15
+crx 4397 15
+csg 4398 15
+csw 4399 15
+cth 4400 15
+ctv 4401 15
+cui 4402 15
+cuu 4403 15
+cvj 4404 15
+cvt 4405 15
+cwk 4406 15
+cws 4407 15
+cxl 4408 15
+cxr 4409 15
+cym 4410 15
+cyq 4411 15
+yes
+czn 4412 15
+yes
+czp 4413 15
+yes
+cao 4414 15
+yes
+bnc 4415 15
+bna 4416 15
+bmd 4417 15
+yes
+bmz 4418 15
+ble 4419 15
+yes
+bly 4420 15
+bkf 4421 15
+bkx 4422 15
+bjg 4423 15
+bjw 4424 15
+bih 4425 15
+biv 4426 15
+bhi 4427 15
+bhu 4428 15
+bgj 4429 15
+bgt 4430 15
+bfk 4431 15
+bfs 4432 15
+bel 4433 15
+ber 4434 15
+bdm 4435 15
+bdq 4436 15
+bcn 4437 15
+bcp 4438 15
+bbo 4439 15
+bod 4440 15
+yes
+boz 4441 15
+bpe 4442 15
+yes
+bpy 4443 15
+bqf 4444 15
+bqx 4445 15
+brg 4446 15
+brw 4447 15
+bsh 4448 15
+bsv 4449 15
+bti 4450 15
+btu 4451 15
+buj 4452 15
+but 4453 15
+bvk 4454 15
+bvs 4455 15
+bwl 4456 15
+bwr 4457 15
+bxm 4458 15
+bxq 4459 15
+byn 4460 15
+byp 4461 15
+yes
+bzo 4462 15
+yes
+yes
+zzq 4463 15
+yes
+yes
+azp 4464 15
+yes
+yes
+yes
+yes
+zap 4465 15
+yes
+yes
+odb 4466 15
+occ 4467 15
+oca 4468 15
+obd 4469 15
+yes
+obz 4470 15
+oxb 4471 15
+oyc 4472 15
+oya 4473 15
+yes
+ozd 4474 15
+yes
+yes
+ozz 4475 15
+yes
+oae 4476 15
+yes
+yes
+oay 4477 15
+peb 4478 15
+pdc 4479 15
+pda 4480 15
+pcd 4481 15
+yes
+pcz 4482 15
+pbe 4483 15
+yes
+pby 4484 15
+pwb 4485 15
+pxc 4486 15
+pxa 4487 15
+pyd 4488 15
+yes
+pyz 4489 15
+yes
+pze 4490 15
+yes
+yes
+pzy 4491 15
+yes
+paf 4492 15
+yes
+pax 4493 15
+qfb 4494 15
+qec 4495 15
+qea 4496 15
+qdd 4497 15
+yes
+qdz 4498 15
+qce 4499 15
+yes
+qcy 4500 15
+qbf 4501 15
+qbx 4502 15
+qvb 4503 15
+qwc 4504 15
+qwa 4505 15
+qxd 4506 15
+yes
+qxz 4507 15
+qye 4508 15
+yes
+qyy 4509 15
+yes
+qzf 4510 15
+yes
+qzx 4511 15
+yes
+qag 4512 15
+yes
+qaw 4513 15
+rgb 4514 15
+rfc 4515 15
+rfa 4516 15
+red 4517 15
+yes
+rez 4518 15
+rde 4519 15
+yes
+rdy 4520 15
+rcf 4521 15
+rcx 4522 15
+rbg 4523 15
+rbw 4524 15
+rub 4525 15
+rvc 4526 15
+rva 4527 15
+rwd 4528 15
+yes
+rwz 4529 15
+rxe 4530 15
+yes
+rxy 4531 15
+ryf 4532 15
+ryx 4533 15
+yes
+rzg 4534 15
+yes
+rzw 4535 15
+yes
+rah 4536 15
+yes
+rav 4537 15
+shb 4538 15
+sgc 4539 15
+sga 4540 15
+sfd 4541 15
+yes
+sfz 4542 15
+see 4543 15
+yes
+sey 4544 15
+sdf 4545 15
+sdx 4546 15
+scg 4547 15
+scw 4548 15
+sbh 4549 15
+sbv 4550 15
+stb 4551 15
+suc 4552 15
+sua 4553 15
+svd 4554 15
+yes
+svz 4555 15
+swe 4556 15
+yes
+swy 4557 15
+sxf 4558 15
+sxx 4559 15
+syg 4560 15
+syw 4561 15
+yes
+szh 4562 15
+yes
+szv 4563 15
+yes
+sai 4564 15
+yes
+sau 4565 15
+tib 4566 15
+thc 4567 15
+tha 4568 15
+tgd 4569 15
+yes
+tgz 4570 15
+tfe 4571 15
+yes
+tfy 4572 15
+tef 4573 15
+tex 4574 15
+tdg 4575 15
+tdw 4576 15
+tch 4577 15
+tcv 4578 15
+tbi 4579 15
+tbu 4580 15
+tsb 4581 15
+ttc 4582 15
+tta 4583 15
+tud 4584 15
+yes
+tuz 4585 15
+tve 4586 15
+yes
+tvy 4587 15
+twf 4588 15
+twx 4589 15
+txg 4590 15
+txw 4591 15
+tyh 4592 15
+tyv 4593 15
+yes
+tzi 4594 15
+yes
+tzu 4595 15
+yes
+taj 4596 15
+yes
+tat 4597 15
+ujb 4598 15
+uic 4599 15
+uia 4600 15
+uhd 4601 15
+yes
+uhz 4602 15
+uge 4603 15
+yes
+ugy 4604 15
+uff 4605 15
+ufx 4606 15
+ueg 4607 15
+uew 4608 15
+udh 4609 15
+udv 4610 15
+uci 4611 15
+ucu 4612 15
+ubj 4613 15
+ubt 4614 15
+urb 4615 15
+usc 4616 15
+usa 4617 15
+utd 4618 15
+yes
+utz 4619 15
+uue 4620 15
+yes
+uuy 4621 15
+uvf 4622 15
+uvx 4623 15
+uwg 4624 15
+uww 4625 15
+uxh 4626 15
+uxv 4627 15
+uyi 4628 15
+uyu 4629 15
+yes
+uzj 4630 15
+yes
+uzt 4631 15
+yes
+uak 4632 15
+yes
+uas 4633 15
+vkb 4634 15
+vjc 4635 15
+vja 4636 15
+vid 4637 15
+yes
+viz 4638 15
+vhe 4639 15
+yes
+vhy 4640 15
+vgf 4641 15
+vgx 4642 15
+vfg 4643 15
+vfw 4644 15
+veh 4645 15
+vev 4646 15
+vdi 4647 15
+vdu 4648 15
+vcj 4649 15
+vct 4650 15
+vbk 4651 15
+vbs 4652 15
+vqb 4653 15
+vrc 4654 15
+vra 4655 15
+vsd 4656 15
+yes
+vsz 4657 15
+vte 4658 15
+yes
+vty 4659 15
+vuf 4660 15
+vux 4661 15
+vvg 4662 15
+vvw 4663 15
+vwh 4664 15
+vwv 4665 15
+vxi 4666 15
+vxu 4667 15
+vyj 4668 15
+vyt 4669 15
+yes
+vzk 4670 15
+yes
+vzs 4671 15
+yes
+val 4672 15
+yes
+var 4673 15
+wlb 4674 15
+wkc 4675 15
+wka 4676 15
+wjd 4677 15
+yes
+wjz 4678 15
+wie 4679 15
+yes
+wiy 4680 15
+whf 4681 15
+whx 4682 15
+wgg 4683 15
+wgw 4684 15
+wfh 4685 15
+wfv 4686 15
+wei 4687 15
+weu 4688 15
+wdj 4689 15
+wdt 4690 15
+wck 4691 15
+wcs 4692 15
+wbl 4693 15
+wbr 4694 15
+wpb 4695 15
+wqc 4696 15
+wqa 4697 15
+wrd 4698 15
+yes
+wrz 4699 15
+wse 4700 15
+yes
+wsy 4701 15
+wtf 4702 15
+wtx 4703 15
+wug 4704 15
+wuw 4705 15
+wvh 4706 15
+wvv 4707 15
+wwi 4708 15
+wwu 4709 15
+wxj 4710 15
+wxt 4711 15
+wyk 4712 15
+wys 4713 15
+yes
+wzl 4714 15
+yes
+wzr 4715 15
+yes
+wam 4716 15
+yes
+waq 4717 15
+xmb 4718 15
+xlc 4719 15
+xla 4720 15
+xkd 4721 15
+yes
+xkz 4722 15
+xje 4723 15
+yes
+xjy 4724 15
+xif 4725 15
+xix 4726 15
+xhg 4727 15
+xhw 4728 15
+xgh 4729 15
+xgv 4730 15
+xfi 4731 15
+xfu 4732 15
+xej 4733 15
+xet 4734 15
+xdk 4735 15
+xds 4736 15
+xcl 4737 15
+xcr 4738 15
+xbm 4739 15
+xbq 4740 15
+xob 4741 15
+xpc 4742 15
+xpa 4743 15
+xqd 4744 15
+yes
+xqz 4745 15
+xre 4746 15
+yes
+xry 4747 15
+xsf 4748 15
+xsx 4749 15
+xtg 4750 15
+xtw 4751 15
+xuh 4752 15
+xuv 4753 15
+xvi 4754 15
+xvu 4755 15
+xwj 4756 15
+xwt 4757 15
+xxk 4758 15
+xxs 4759 15
+xyl 4760 15
+xyr 4761 15
+yes
+xzm 4762 15
+yes
+xzq 4763 15
+yes
+xan 4764 15
+yes
+xap 4765 15
+ynb 4766 15
+ymc 4767 15
+yma 4768 15
+yld 4769 15
+yes
+ylz 4770 15
+yke 4771 15
+yes
+yky 4772 15
+yjf 4773 15
+yjx 4774 15
+yig 4775 15
+yiw 4776 15
+yhh 4777 15
+yhv 4778 15
+ygi 4779 15
+ygu 4780 15
+yfj 4781 15
+yft 4782 15
+yek 4783 15
+yes 4784 15
+ydl 4785 15
+ydr 4786 15
+ycm 4787 15
+ycq 4788 15
+ybn 4789 15
+ybp 4790 15
+yoc 4791 15
+yoa 4792 15
+ypd 4793 15
+yes
+ypz 4794 15
+yqe 4795 15
+yes
+yqy 4796 15
+yrf 4797 15
+yrx 4798 15
+ysg 4799 15
+ysw 4800 15
+yth 4801 15
+ytv 4802 15
+yui 4803 15
+yuu 4804 15
+yvj 4805 15
+yvt 4806 15
+ywk 4807 15
+yws 4808 15
+yxl 4809 15
+yxr 4810 15
+yym 4811 15
+yyq 4812 15
+yes
+yzn 4813 15
+yes
+yzp 4814 15
+yes
+yao 4815 15
+yes
+yes
+znc 4816 15
+zna 4817 15
+Case 1: 15
+Case 2: 0
+Case 3: -1
